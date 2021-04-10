@@ -1,16 +1,21 @@
-# Termo de autorização para tratamento de dados
+# Política de Privacidade
+## Definições iniciais
 
-Olá! Este documento atende às exigências da Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de proteger seus dados. Nós respeitamos a sua privacidade e por isso, queremos esclarecer alguns pontos importantes.
+Olá! Este documento atende às exigências da Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de informar como protegemos os seus dados. Nós respeitamos a sua privacidade e por isso, queremos esclarecer alguns pontos importantes.
 
 Seus dados serão tratados e armazenados pela **Justo Tecnologia e Inovação Social Ltda.**, com sede em São Paulo/SP, CNPJ/MF nº 38.447.139/0001-50, considerada aqui a “controladora” e chamada de **AppJusto**.
 
 Você é o “Titular” dos seus dados de acordo com a Lei 13.709 e é tratado aqui como o “titular” ou “você”.
 
-Os seus dados pessoais fornecidos poderão ser utilizados para:
+Ao se cadastrar na plataforma AppJusto você aceita expressamente essa Política.
+
+Os seus dados pessoais fornecidos para o AppJusto ao se cadastrar na plataforma poderão ser utilizados para:
 
 - Entender o perfil, as necessidades e interesses dos titulares usuários da plataforma para melhorar nossos serviços e atingir a nossa missão, que é buscar relações mais justas e equilibradas para todos os integrantes do ecossistema de delivery no Brasil.
 - Entrar em contato direto com você para realização de pesquisas voltadas para a melhoria dos nossos serviços e/ou enviar comunicações sobre a Plataforma AppJusto.
 - Para o uso interno da AppJusto e/ou para o público em geral, desde que anonimizados.
+- Informaçoes de pagamento fornecidas servirão para que possamos realizar o repasse dos valores pelos seus serviços na forma como estipulado nos Termos e Condições de Uso da Plataforma
+- Informações de localização fornecidas servirão para que nossa plataforma possa traçar o rota da entrega com a sua localização nós precisamos que você também nos informe a sua localização ou a localização do local em que gostaria que entregássemos o seu pedido.
 
 Ao aceitar o presente termo, você autoriza o AppJusto a:
 
