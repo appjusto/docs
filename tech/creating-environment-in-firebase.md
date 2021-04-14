@@ -2,7 +2,7 @@
 
 1. Go to [Firebase Console](https://console.firebase.google.com)
 2. Click on '+ Add Project'
-3. Define a unique identifier considering the environment, ex: app-justo-staging
+3. Define a unique identifier considering the environment, ex: app-justo-dev
 4. Go to "Usage and billing" > "Details & settings" and upgrade plan to "Blaze'
 
 # 2 Configure Firebase Authentication backend
@@ -218,3 +218,13 @@ FLAVOR=courier expo fetch:android:hashes
 # 20 Enable Resize extension
 
 # 21 Create Dynamic Link for deeplinks
+
+# 22 Add permissions for service account (for backups_
+
+```bash
+gcloud projects add-iam-policy-binding app-justo-dev \
+    --member serviceAccount:app-justo-dev@appspot.gserviceaccount.com \
+    --role roles/datastore.importExportAdmin
+gsutil iam ch serviceAccount:app-justo-dev@appspot.gserviceaccount.com:admin \
+    gs://app-justo-dev-backups
+```
