@@ -170,8 +170,8 @@ Tanto para entregadores quanto para restaurantes, no momento que solicitar a tra
 
 <FALTA PREENCHER>
 
-# 6. CONSIDERAÇÕES FINAIS
+## 6. CONSIDERAÇÕES FINAIS
 
-# 6.1. Lei e Foro.
+### 6.1. Lei e Foro.
 
 Esses termos devem ser interpretados de acordo com a legislação brasileira e em caso de alguma controvérsia ou conflito que surgir e que a appjusto e você não consigam resolver, deverá ser solucionado pela justiça do estado de São Paulo.
