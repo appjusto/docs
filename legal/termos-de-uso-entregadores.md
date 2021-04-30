@@ -2,7 +2,7 @@
 
 ## 1. AppJusto
 
-## 1.1. O que é o Appjusto?
+## 1.1. O que é o AppJusto?
 
 Somos uma plataforma de delivery de código fonte livre que busca relações mais justas e equilibradas para todos os envolvidos no ecossistema de delivery no Brasil. Propormos um novo modelo de atuação: mais transparente, sustentável e participativo, e com ele queremos impactar positivamente a vida dos integrantes da plataforma e combater a precarização do trabalho de entregador autônomo.
 
@@ -12,19 +12,19 @@ O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa
 
 ### 2.1. Sobre esses termos.
 
-Esses termos regulam a relação entre o appjusto e você entregador. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a tornar públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando na plataforma.
+Esses termos regulam a relação entre o AppJusto e você entregador. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a tornar públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando na plataforma.
 
 ### 2.2. Prestação dos serviços
 
 O motivo da sua adesão deve estar claro. Ao aceitar esses termos, entendemos que você decidiu aderir a plataforma AppJusto porque está alinhado com nossos princípios norteadores (autonomia e participação; preço justo; eficiência e sustentabilidade financeira; criação de um bem coletivo; transparência, dentre outros) e com nosso modelo de negócios. Sua adesão é feita de forma livre, espontânea e sem nenhum vício de vontade. A natureza da relação jurídica entre você, AppJusto, restaurantes e consumidor é de natureza cível e não trabalhista. Isso pode mudar no futuro, claro. Mas até agora é o modelo que acreditamos ser o mais justo e é o modelo que acreditamos poder viabilizar uma relação de autonomia entre todos os que participam do ecossistema e alcançar nossos objetivos sociais. Se você não acredita nisso, por favor não aceite esses termos.
 
 ### 2.3. Condições para fazer parte.
-  
+
 #### 2.3.1. Pré-requisitos.
 
 Para você fazer parte da plataforma é necessário que você preencha os pré-requisitos abaixo e nos apresente a documentação que comprove isso:
 
-a) Ter pelo menos 21 anos
+a) Ter pelo menos 18 anos
 b) Possuir CNH válida, se for realizar entregas com veículos automotores
 c) Ser titular de um CNPJ. Você não precisa ser sócio de uma empresa. Você pode ser um MEI (Micro Empreendedor Individual) com o CNAE adequado.
 d) Ser titular de conta bancária válida.
@@ -132,7 +132,6 @@ A Frota que você faz parte define os parâmetros da corrida (pagamento mínimo 
 
 O AppJusto disponibilizará algumas frotas como sugestão de condições que nos parecem ser justas tanto para entregadores quanto para clientes.
 
-
 ## 5.2. Repasse de ganhos
 
 O AppJusto não fica com nenhuma parte do valor da corrida do entregador, e se o entregador faz parte de uma frota, como já dissemos, esse o grupo tem total autonomia para definir o valor da corrida.
@@ -141,7 +140,7 @@ Como o processamento do pagamento e custódia é feito por uma instituição fin
 
 Dependendo da forma como o consumidor fizer o pagamento, quando o valor for compensado na sua conta digital, será disponibilizado para você esse valor para o saque. Assim, pagamentos feitos pelo consumidor com o PIX serão compensados em até 1 dia na sua conta, e cartão de crédito 30 dias, para você sacar esses valores.
 
-No caso de pagamento no cartão de crédito a dedução hoje é de R$ 0,09 + 2,5% do valor da corrida. No caso de pagamento via PIX, o valor da dedução é de R$ 0,09 + 0,9% do valor da corrida. O Appjusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça o mais rápido possível, sem necessidade de adiantamento.
+No caso de pagamento no cartão de crédito a dedução hoje é de R$ 0,09 + 2,5% do valor da corrida. No caso de pagamento via PIX, o valor da dedução é de R$ 0,09 + 0,9% do valor da corrida. O AppJusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça o mais rápido possível, sem necessidade de adiantamento.
 
 Quando os valores estiverem compensados você verá em "Disponível para saque" o valor que você já poderá retirar para sua conta corrente.
 
@@ -155,12 +154,8 @@ Caso não queira esperar a compensação dos valores pagos com cartão de crédi
 
 Tanto para entregadores quanto para restaurantes, no momento que solicitar a transferência dos ganhos ou adiantamento, será cobrada uma tarifa de R$2,00, usada para pagar a instituição financeira pela transação. Em todo mês que houver alguma movimentação na conta, a taxa será cobrada pela instituição financeira (onde os valores estão sendo "acumulados") o valor de R$0,50 pela manutenção da conta.
 
-### 5.4.1. Estornos
-
-<FALTA PREENCHER>
-
 ## 6. CONSIDERAÇÕES FINAIS
 
 ### 6.1. Lei e Foro.
 
-Esses termos devem ser interpretados de acordo com a legislação brasileira e em caso de alguma controvérsia ou conflito que surgir e que a appjusto e você não consigam resolver, deverá ser solucionado pela justiça do estado de São Paulo.
+Esses termos devem ser interpretados de acordo com a legislação brasileira e em caso de alguma controvérsia ou conflito que surgir e que a AppJusto e você não consigam resolver, deverá ser solucionado pela justiça do estado de São Paulo.
