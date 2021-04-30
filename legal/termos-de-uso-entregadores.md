@@ -12,20 +12,20 @@ O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa
 
 ### 2.1. Sobre esses termos.
 
-Esses termos regulam a relação entre o appjusto e você entregador. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa fazer parte do nosso movimento. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a sempre notificá-lo das modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar a fazer parte do nosso movimento.
+Esses termos regulam a relação entre o appjusto e você entregador. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a tornar públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando na plataforma.
 
 ### 2.2. Prestação dos serviços
 
-O motivo da sua adesão deve estar claro. Ao aceitar esses termos, entendemos que você decidiu aderir a plataforma appjusto porque está alinhado com nossos princípios norteadores (autonomia e participação; preço justo; eficiência e sustentabilidade financeira; criação de um bem coletivo; transparência, dentre outros) e com nosso modelo de negócios. Sua adesão é feita de forma livre, espontânea e sem nenhum vício de vontade. A natureza da relação jurídica entre você, appjusto, restaurantes e consumidor é de natureza cível e não trabalhista. Isso pode mudar no futuro, claro. Mas até agora é o modelo que acreditamos ser o mais justo e é o modelo que acreditamos poder viabilizar uma relação de autonomia entre todos os que participam do ecossistema e alcançar nossos objetivos sociais. Se você não acredita nisso, por favor não aceite esses termos.
+O motivo da sua adesão deve estar claro. Ao aceitar esses termos, entendemos que você decidiu aderir a plataforma AppJusto porque está alinhado com nossos princípios norteadores (autonomia e participação; preço justo; eficiência e sustentabilidade financeira; criação de um bem coletivo; transparência, dentre outros) e com nosso modelo de negócios. Sua adesão é feita de forma livre, espontânea e sem nenhum vício de vontade. A natureza da relação jurídica entre você, AppJusto, restaurantes e consumidor é de natureza cível e não trabalhista. Isso pode mudar no futuro, claro. Mas até agora é o modelo que acreditamos ser o mais justo e é o modelo que acreditamos poder viabilizar uma relação de autonomia entre todos os que participam do ecossistema e alcançar nossos objetivos sociais. Se você não acredita nisso, por favor não aceite esses termos.
 
 ### 2.3. Condições para fazer parte.
   
 #### 2.3.1. Pré-requisitos.
 
-Para você fazer parte do movimento é necessário que você preencha os pré-requisitos abaixo e nos apresente a documentação que comprove isso:
+Para você fazer parte da plataforma é necessário que você preencha os pré-requisitos abaixo e nos apresente a documentação que comprove isso:
 
-a) Ser maior de 21 anos
-b) Possuir CNH na categoria de motociclista válida.
+a) Ter pelo menos 21 anos
+b) Possuir CNH válida, se for realizar entregas com veículos automotores
 c) Ser titular de um CNPJ. Você não precisa ser sócio de uma empresa. Você pode ser um MEI (Micro Empreendedor Individual) com o CNAE adequado.
 d) Ser titular de conta bancária válida.
 e) Manter uma foto atualizada no seu perfil.
@@ -36,19 +36,19 @@ Podemos também a qualquer tempo solicitar novas informações ou documentos ou 
 
 Como em todo tipo de relação jurídica, a sua prestação de serviços implica em responsabilidades para você. Essas responsabilidades servem para garantir a boa prestação do serviço e das quais não abriremos mão. Aceitando esse termo, você assume expressamente que:
 
-a) Deve prestar o serviço da forma mais ética, correta, respeitosa, segura e justa possível, assumindo a responsabilidade por todos os atos praticados por você durante a prestação de serviços, inclusive qualquer ato praticado com seu login e senha no aplicativo. Lembre-se que eles são individuais e intransferíveis.
-b) Tem ciência de todos os riscos envolvidos na prestação de serviços, inclusive aqueles relacionados à segurança no trânsito, incluso infrações de trânsito, exonerando a appjusto e o restaurante de qualquer responsabilidade.
+a) Deve prestar o serviço da forma mais ética, correta, respeitosa, segura e justa possível, assumindo a responsabilidade por todos os atos praticados por você durante a prestação de serviços, inclusive qualquer ato praticado com seu usuário no aplicativo. Lembre-se que eles são individuais e intransferíveis.
+b) Tem ciência de todos os riscos envolvidos na prestação de serviços, inclusive aqueles relacionados à segurança no trânsito, incluso infrações de trânsito, exonerando a AppJusto e o restaurante de qualquer responsabilidade.
 c) Tem ciência que somente é permitido o transporte de produtos lícitos, isto é, aqueles que não sejam proibidos ou regulados por alguma lei ou instrumento semelhante que impeça o transporte por você (entorpecentes, explosivos, armas de fogo, dentre outros). Se você identificar que está transportando qualquer produto ilícito ou perigoso, está obrigado a interromper a corrida, entrar em contato com o nosso suporte e, se for o caso e a depender do seu bom julgamento, se dirigir a uma delegacia mais próxima para relatar o ocorrido e deixar que as autoridades façam o seu trabalho.
-d) É de sua responsabilidade dispor de todos os meios para realizar a entrega (habilitação, veículo, manutenção, equipamento de segurança, bag, smartphone, plano de dados, gps, linha telefônica, combustível, etc.) e se responsabilizar por qualquer despesa que seja necessária para dispor desses meios.
-e) Sob pena de responder civil e criminalmente, você declara que todos os documentos e informações cadastrais enviados à Plataforma do Appjusto são autênticos, atuais e verdadeiros.
+d) É de sua responsabilidade dispor de todos os meios para realizar a entrega (habilitação, veículo, manutenção, equipamento de segurança, bag, smartphone, plano de dados, GPS, linha telefônica, combustível, etc.) e se responsabilizar por qualquer despesa que seja necessária para dispor desses meios.
+e) Sob pena de responder civil e criminalmente, você declara que todos os documentos e informações cadastrais enviados à Plataforma do AppJusto são autênticos, atuais e verdadeiros.
 f) O transporte utilizado é de sua propriedade ou, em não o sendo, declara ser de propriedade de outra pessoa que o cedeu por livre e espontânea vontade para que você pudesse desempenhar o seu trabalho, sendo você o único responsável por quaisquer irregularidades e penalidades relacionadas ao uso desse transporte;
 
 #### 2.3.3. Suspensão e banimento.
 
-A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto (no futuro essa decisão também será submetida a um conselho composto por appjusto, entregadores, restaurantes e parceiros):
+A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto:
 
 a) Desrespeito aos presentes termos de uso e suas atualizações futuras
-b) Fraudes, inclusive aluguel e/ou empréstimo de conta na plataforma (usuário e senha)
+b) Fraudes, inclusive aluguel e/ou empréstimo da sua conta na plataforma
 c) Uso indevido da marca, nome e da plataforma com a intenção de prejudicar qualquer pessoa
 
 ## 3. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
@@ -57,9 +57,9 @@ c) Uso indevido da marca, nome e da plataforma com a intenção de prejudicar qu
 
 Esta seção serve para atender às exigências da Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de proteger seus dados. Isso é importante para nós pois respeitamos a sua privacidade e por isso, queremos esclarecer alguns pontos importantes.
 
-Seus dados serão tratados e armazenados pela Appjusto, considerada aqui a "controladora" nos termos da Lei 13.709/2018.
+Seus dados serão tratados e armazenados pela AppJusto, considerada aqui a "controladora" nos termos da Lei 13.709/2018.
 
-Você é o "Titular" dos seus dados de acordo com a Lei 13.709/2018 e é tratado aqui como o "titular" ou"você".
+Você é o "Titular" dos seus dados de acordo com a Lei 13.709/2018 e é tratado aqui como o "titular" ou "você".
 
 ### 3.2. Utilização dos dados.
 
@@ -130,29 +130,18 @@ Se você já viu como funciona uma Frota no AppJusto, sabe que aqui quem define 
 
 A Frota que você faz parte define os parâmetros da corrida (pagamento mínimo pela corrida, distância inicial mínima, valor adicional por quilometro rodado, distância máxima para entrega, etc.). O cliente (consumidor final) escolhe a Frota que ele desejar e a nossa plataforma encontra o entregador da Frota.
 
-O AppJusto tem uma frota padrão para entrega de comida e os parâmetros hoje (isso pode mudar) são:
+O AppJusto disponibilizará algumas frotas como sugestão de condições que nos parecem ser justas tanto para entregadores quanto para clientes.
 
-a) Bandeirada (considerando até 3km): Começa em R$ 10,00 por corrida
-b) Valor por KM (após 3km): R$ 2,00 por quilômetro
-c) Valor adicional por parada: esse recurso ainda não está ativado.
-d) Remuneração por espera: esse recurso será disponibilizado tão logo consigamos uma solução tecnológica confiável.
-
-Já a frota padrão para entrega de mercadorias, os parâmetros hoje são:
-
-1. Bandeirada (considerando até 3km): Começa em R$ 9,00 por corrida
-2. Valor por KM (após 3km): R$ 1,75 por quilômetro
-3. Valor adicional por parada: esse recurso ainda não está ativado.
-4. Remuneração por espera: esse recurso será disponibilizado tão logo consigamos uma solução tecnológica confiável.
 
 ## 5.2. Repasse de ganhos
 
 O AppJusto não fica com nenhuma parte do valor da corrida do entregador, e se o entregador faz parte de uma frota, como já dissemos, esse o grupo tem total autonomia para definir o valor da corrida.
 
-Como o processamento do pagamento e custódia é feito por uma instituição financeira, existe somente a dedução das taxas da instituição financeira, conforme o tipo de pagamento escolhido pelo cliente.
+Como o processamento do pagamento e custódia é feito por uma instituição financeira, existe uma dedução das taxas da instituição financeira, conforme o tipo de pagamento escolhido pelo cliente.
 
-Desta forma dependendo da forma como o consumidor fizer o pagamento, quando o valor for compensado na sua conta digital, será disponibilizado para você esse valor para o saque. Assim, pagamentos feitos pelo consumidor com o PIX serão compensados em 1 dia na sua conta, e cartão de crédito 30 dias, para você sacar esses valores.
+Dependendo da forma como o consumidor fizer o pagamento, quando o valor for compensado na sua conta digital, será disponibilizado para você esse valor para o saque. Assim, pagamentos feitos pelo consumidor com o PIX serão compensados em até 1 dia na sua conta, e cartão de crédito 30 dias, para você sacar esses valores.
 
-No caso de pagamento no cartão de crédito a dedução hoje é de 2,5%, no caso de pagamento via PIX não haverá dedução. O Appjusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça no mesmo dia, sem necessidade de adiantamento.
+No caso de pagamento no cartão de crédito a dedução hoje é de R$ 0,09 + 2,5% do valor da corrida. No caso de pagamento via PIX, o valor da dedução é de R$ 0,09 + 0,9% do valor da corrida. O Appjusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça o mais rápido possível, sem necessidade de adiantamento.
 
 Quando os valores estiverem compensados você verá em "Disponível para saque" o valor que você já poderá retirar para sua conta corrente.
 
@@ -160,7 +149,7 @@ Quando os valores estiverem compensados você verá em "Disponível para saque" 
 
 Caso não queira esperar a compensação dos valores pagos com cartão de crédito pelos seus clientes é possível fazer um adiantamento dos valores ainda não compensados mediante um pagamento de uma taxa de 2,5%.
 
-É importante destacar que essas operações financeiras são feitas por uma empresa que possui taxas e essas taxas não são destinadas ao AppJusto).
+É importante destacar que essas operações financeiras são feitas por uma empresa que possui taxas e essas taxas não são destinadas ao AppJusto.
 
 ## 5.4. Prazos para pagamento ao entregador.
 
