@@ -2,7 +2,7 @@
 
 Me comprometo a praticar preços iguais ou inferiores ao meu cardápio.
 
-Estou de acordo com a contribuição de 5% + valor gateway de pagamento (atualmente a taxa para crédito está 2,21%+R$ 0,09) para solução com serviço de entrega. Também com a  contribuição de 2% + gateway de pagamento caso utilize outra forma de entrega por falta de entregadores appJusto. O valor será creditado em XX dias após a venda.
+Estou de acordo com a contribuição de 5% + valor gateway de pagamento (atualmente a taxa para crédito está 2,21%+R$ 0,09) para solução com serviço de entrega. Também com a  contribuição de 2% + gateway de pagamento caso utilize outra forma de entrega por falta de entregadores appJusto. O valor será creditado em 30 dias após a venda.
 
 Estou de acordo com a mensalidade de R$ 50,00 que será cobrada apenas quando meu restaurantes tiver feito um primeiro faturamento maior do que R$ 1.500,00 dentro de um mês.
 
