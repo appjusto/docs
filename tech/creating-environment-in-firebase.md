@@ -63,9 +63,10 @@ npm install
 
 ```bash
 firebase --project app-justo-dev functions:config:set \
-  appjusto.region="" \
-  appjusto.testing="" \
-  algolia.env="" \
+  appjusto.env="" \
+  fb.project="" \
+  fb.region="" \
+  fb.tasks.matching.queue="matching-queue" \
   algolia.appid="" \
   algolia.apikey="" \
   googlemaps.apikey="" \
@@ -219,7 +220,7 @@ FLAVOR=courier expo fetch:android:hashes
 
 # 21 Create Dynamic Link for deeplinks
 
-# 22 Add permissions for service account (for backups_
+# 22 Add permissions for service account (for backups)
 
 ```bash
 gcloud projects add-iam-policy-binding app-justo-dev \
@@ -228,3 +229,42 @@ gcloud projects add-iam-policy-binding app-justo-dev \
 gsutil iam ch serviceAccount:app-justo-dev@appspot.gserviceaccount.com:admin \
     gs://app-justo-dev-backups
 ```
+
+# 24 Configuring GCP Cloud Tasks
+
+1. [Enable Cloud Tasks API](https://console.cloud.google.com/apis/library/cloudtasks.googleapis.com/?q=cloud%20tasks)
+2. Select correct project, ex: `gcloud config set project app-justo-dev`
+3. Create queue:
+
+```bash
+gcloud tasks queues create matching-queue \
+  --max-dispatches-per-second=500 \
+  --max-concurrent-dispatches=1000 \
+  --max-attempts=40 \
+  --min-backoff=15s \
+  --max-backoff=15s \
+  --max-doublings=1 \
+  --max-retry-duration=15s \
+  --log-sampling-ratio=1.0
+```
+
+4. [Create service account](https://cloud.google.com/tasks/docs/creating-http-target-tasks)
+
+4.1 Add "Cloud Tasks > Cloud Tasks Enqueuer", "Services Account > Service Account User" and "Cloud Functions > Cloud Function Invoker" roles;
+4.2. Name as tasks-enqueuer and add a description to it
+
+5. Update config and deploy task handler
+
+4.3. Set serviceaccountemail
+4.4. Deploy matchingTaskHandler
+4.5. Edit permissions to remove 'allUsers' and add 'allAuthenticatedUsers' with role 'Cloud function Invoker'
+
+gcloud projects add-iam-policy-binding matchingTaskHandler \
+ --member serviceAccount:<email> \
+ --role roles/cloudfunctions.invoker --region <region>
+
+gcloud projects remove-iam-policy-binding matchingTaskHandler \
+ --member allUsers \
+ --role roles/cloudfunctions.invoker --region <region>
+
+5. Set fb.tasks.serviceAccountEmail
