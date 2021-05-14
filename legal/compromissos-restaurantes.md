@@ -1,17 +1,19 @@
 # Compromissos
 
-Me comprometo a praticar preços iguais ou inferiores ao meu cardápio.
+Destacamos aqui, as cláusulas mais relevantes do termo de uso e também aproveitamos para reforçar boas práticas que contribuirão para que esse movimento gera a demanda e relevância desejada.
 
-Estou de acordo com a contribuição de 5% + valor gateway de pagamento (atualmente a taxa para crédito está 2,21%+R$ 0,09) para solução com serviço de entrega. Caso utilize outra forma de entrega por falta de entregadores na plataforma AppJusto, concordo com a  contribuição de 2% + gateway de pagamento. O valor será creditado em 30 dias após a venda para os pagamento em cartão de crédito e 1 dia para PIX.
+Tenho ciência de que a AppJusto tem como objetivo disponibilizar melhor tecnologia e operação possível, ao mesmo tempo que é enxuta em suas próprias despesas para conseguir maximizar os ganhos dos Restaurantes e Entregadores. Isso significa que - principalmente no começo de uma nova região - pode haver limitações na disponibilidade de entregadores, ter menos funcionalidades que outros Apps que já faturam mais, e que investimento e esforços de  divulgação para gerar demanda é responsabilidade de todos.
 
-Estou de acordo com a mensalidade de R$ 50,00 que será cobrada apenas quando meu restaurantes tiver feito um primeiro faturamento maior do que R$ 1.500,00 dentro de um mês.
-
-Tenho ciência que será criada uma conta na plataforma Iugu para recebimentos, e haverá um custo de R$ 0,50 nos meses que houver qualquer movimentação nesta conta, e R$ 2,00 por saque. Pode ser feito antecipação dos recebíveis do valor mediante taxa de 2,5% ao mês (reduzindo este valor conforme a proximidade da data de compensação).
-
-Tenho ciência de que a AppJusto tem como objetivo ter menores custos e criar relações mais justas, por isso pode haver limitações da plataforma e operação, e me comprometo a informar caso identifique algum BUG ou oportunidade de melhoria.
-
-Me comprometo a manter a loja aberta no horário definido, itens disponíveis atualizados e equipe treinada para operar na plataforma.
+Tenho ciência de que para divulgação na plataforma com gestão das entregas a contribuição para Appjusto é 5% + valor gateway de pagamento (taxa da operadora sob o valor do pedido. Taxa para operadora (Iugu) para pagamentos no crédito é 2,21%+R$ 0,09 e 0,99% no PIX. O frete pago pelo cliente será creditado integralmente para o restaurante caso utilize outra forma de entrega por falta de entregadores AppJusto. Será criada uma conta na plataforma Iugu para recebimentos, e haverá um custo de R$ 0,50 nos meses que houver qualquer movimentação nesta conta, e R$ 2,00 por saque (em breve Pix gratuíto). Pode ser feito antecipação dos recebíveis do valor mediante taxa de 2,5% para o período de 30 dias (reduz proporcional ao dias).
 
 Sou responsável pela veracidade de toda informação inserida na plataforma, e me comprometo a honrar preços e promoções publicadas.
 
-Entendo a importância de ajudar na divulgação do AppJusto para que este movimento dê certo, e se consolide como uma alternativa para equilíbrio no mercado de delivery.
+Me comprometo a:
+- Praticar preços inferiores a outros Apps sempre que possível idênticos o meu cardápio da loja física.
+- Auxiliar na melhoria do projeto informando caso identifique algum BUG ou com sugestões.
+- Manter a loja aberta no horário definido e aceitar os pedidos.
+- Manter itens disponíveis atualizados e equipe treinada para operar na plataforma.
+
+Entendo a importância de ajudar na divulgação do AppJusto para outros restaurantes e atração de consumidores para que este movimento ganhe corpo e se consolide como uma alternativa para equilíbrio no mercado de delivery.
+
+Saiba que o AppJusto também tem 5 compromissos-chave com todos, pode lê-los neste link,e não fica com absolutamente nada do pago pelo cliente ao entregador, nem recebe nenhum tipo de comissão de niguém, buscamos sempre conseguir a melhor negociação para vocês.
