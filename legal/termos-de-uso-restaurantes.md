@@ -1,8 +1,8 @@
-**TERMOS DE USO E CONDIÇÕES PARA RESTAURANTES**
+# TERMOS DE USO E CONDIÇÕES PARA RESTAURANTES
 
-**1. APPJUSTO**
+# 1. APPJUSTO
 
-# 1.1. O que é o Appjusto?
+**1.1. O que é o Appjusto?
 
 Somos uma plataforma de delivery de código fonte livre que busca relações mais justas e equilibradas para todos os envolvidos no ecossistema de delivery no Brasil. Propormos um novo modelo de atuação: mais transparente, sustentável e participativo, e com ele queremos impactar positivamente a vida dos integrantes da plataforma e combater a precarização do trabalho de entregador autônomo.
 
