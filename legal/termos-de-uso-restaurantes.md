@@ -27,9 +27,13 @@ A natureza da relação jurídica entre você e seus colaboradores com appjusto,
 Para você fazer poder operar na nossa plataforma é necessário que você preencha os pré-requisitos abaixo:
 
 a) Aceitar os presentes termos e nossa política de privacidade;
+
 b) Possuir CNPJ ativo em CNAE adequado para comércio de alimentos preparados. Você não precisa ser uma sociedade empresária. Você pode ser inclusive um MEI (Micro Empreendedor Individual) com o CNAE adequado.
+
 c) Ser titular de conta bancária válida.
+
 d) Possuir a infraestrutura necessária para receber os pedidos (computador, internet, etc.)
+
 e) Realizar o cadastro na nossa plataforma, fornecendo as seguintes informações:
 
 - Dados pessoais do administrador do restaurante (e-mail, nome completo, celular e CPF)
@@ -37,8 +41,9 @@ e) Realizar o cadastro na nossa plataforma, fornecendo as seguintes informaçõe
 - Cadastrar dados bancários (personalidade da conta bancária – se pessoa jurídica ou pessoa física em caso de MEI – Micro Empreendedor Individual, tipo de conta, banco, agência, número da conta)
 - Definir endereço do restaurante, raio de entrega e tempo médio de preparo dos pratos
 
-    2.3.2. Podemos também a qualquer tempo solicitar novas informações ou documentos ou mesmo exigir que você preencha outros pré-requisitos para continuar com a gente.
-    2.3.3 Responsabilidades.
+2.3.2. Podemos também a qualquer tempo solicitar novas informações ou documentos ou mesmo exigir que você preencha outros pré-requisitos para continuar com a gente.
+    
+2.3.3 Responsabilidades.
 
 Como em todo tipo de relação jurídica, a sua relação com o AppJusto, clientes e entregadores implica em responsabilidades para você. Essas responsabilidades servem para garantir a boa relação entre as partes envolvidas e das quais não abriremos mão. Aceitando esse termo, você assume expressamente que:
 
