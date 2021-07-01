@@ -2,7 +2,7 @@
 
 **1. APPJUSTO**
 
-#1.1. O que é o Appjusto?
+# 1.1. O que é o Appjusto?
 
 Somos uma plataforma de delivery de código fonte livre que busca relações mais justas e equilibradas para todos os envolvidos no ecossistema de delivery no Brasil. Propormos um novo modelo de atuação: mais transparente, sustentável e participativo, e com ele queremos impactar positivamente a vida dos integrantes da plataforma e combater a precarização do trabalho de entregador autônomo.
 
@@ -10,19 +10,19 @@ O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa
 
 **2. DA NOSSA RELAÇÃO**
 
-#2.1. Sobre esses termos
+# 2.1. Sobre esses termos
 
 Esses termos regulam a relação entre o appjusto e você restaurante. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a torna públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando a plataforma.
 
-2.2. Prestação dos serviços
+# 2.2. Prestação dos serviços
 
 O motivo da sua adesão deve estar claro. Ao aceitar esses termos, entendemos que você decidiu aderir a plataforma appjusto porque está alinhado com nossos princípios norteadores (autonomia e participação; preço justo; eficiência e sustentabilidade financeira; criação de um bem coletivo; transparência, dentre outros) e com nosso modelo de negócios. Sua adesão é feita de forma livre, espontânea e sem nenhum vício de vontade.
 
 A natureza da relação jurídica entre você e seus colaboradores com appjusto, com entregadores e consumidor é de natureza cível e não existe nenhuma relação trabalhista entre quaisquer dos agentes citados.. Se você não acredita nisso, por favor não aceite esses termos.
 
-2.3. Condições para fazer parte
+# 2.3. Condições para fazer parte
   
-2.3.1. Pré-requisitos 
+# 2.3.1. Pré-requisitos 
 
 Para você fazer poder operar na nossa plataforma é necessário que você preencha os pré-requisitos abaixo:
 
@@ -41,9 +41,9 @@ e) Realizar o cadastro na nossa plataforma, fornecendo as seguintes informaçõe
 - Cadastrar dados bancários (personalidade da conta bancária – se pessoa jurídica ou pessoa física em caso de MEI – Micro Empreendedor Individual, tipo de conta, banco, agência, número da conta)
 - Definir endereço do restaurante, raio de entrega e tempo médio de preparo dos pratos
 
-2.3.2. Podemos também a qualquer tempo solicitar novas informações ou documentos ou mesmo exigir que você preencha outros pré-requisitos para continuar com a gente
+# 2.3.2. Podemos também a qualquer tempo solicitar novas informações ou documentos ou mesmo exigir que você preencha outros pré-requisitos para continuar com a gente
     
-2.3.3 Responsabilidades
+# 2.3.3 Responsabilidades
 
 Como em todo tipo de relação jurídica, a sua relação com o AppJusto, clientes e entregadores implica em responsabilidades para você. Essas responsabilidades servem para garantir a boa relação entre as partes envolvidas e das quais não abriremos mão. Aceitando esse termo, você assume expressamente que:
 
@@ -51,7 +51,7 @@ a) Deve se relacionar com todos os agentes (AppJusto, entregadores e clientes) d
 
 b) Sob pena de responder civil e criminalmente, você declara que todos os documentos e informações cadastrais enviados à Plataforma do Appjusto são autênticos, atuais e verdadeiros.
 
-2.3.4. Compromissos
+# 2.3.4. Compromissos
 
 É importante ter ciência que o AppJusto tem como premissa disponibilizar a melhor tecnologia e operação possível; e ao mesmo tempo, o AppJusto é enxuto em suas próprias despesas para conseguir maximizar os ganhos dos Restaurantes e Entregadores, sem abrir mão do preço mais competitivo para o consumidor final.
 
@@ -75,7 +75,7 @@ g) Ter o compromisso de fazer o suporte aos clientes em primeira instância em r
 
 h) Entender a importância de ajudar na divulgação do AppJusto para outros restaurantes e atração de consumidores para que este movimento ganhe corpo e se consolide como uma alternativa para equilíbrio no mercado de delivery.
 
-2.3.5. Suspensão e banimento.
+# 2.3.5. Suspensão e banimento.
 
 É possível que você seja suspenso ou banido da plataforma. A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto (no futuro essa decisão também será submetida a um conselho composto por appjusto, entregadores, restaurantes e parceiros):
 
@@ -87,7 +87,7 @@ c) Uso indevido da marca, nome e da plataforma com a intenção de prejudicar qu
 
 **3. PREÇO**
 
- 3.1. Composição.
+ # 3.1. Composição.
 
 Para utilizar a plataforma a contraprestação paga por você para o Appjusto é de 5% (cinco por cento) do valor do pedido realizado pelo cliente.
 
@@ -107,13 +107,13 @@ Já o frete pago pelo cliente será creditado integralmente para o estabelecimen
 
 Quando os valores estiverem compensados você verá em &quot;Disponível para saque&quot; o valor que você já poderá retirar para sua conta corrente.
 
-3.2. Adiantamento
+# 3.2. Adiantamento
 
 Caso não queira esperar a compensação dos valores pagos com cartão de crédito pelos seus clientes é possível fazer um adiantamento dos valores ainda não compensados mediante um pagamento de uma taxa de 2,5% ao mês e esse percentual é reduzido de forma proporcional aos dias antecipados).
 
 É importante destacar que essas operações financeiras são feitas por uma empresa que possui taxas e essas taxas não são destinadas ao AppJusto).
 
-3.3. Estornos e cancelamentos
+# 3.3. Estornos e cancelamentos
 
 Caso um pedido venha a ser aceito e depois cancelado por você, independente do motivo, mesmo assim será cobrada de você a taxa de R$ 0,09 (nove centavos de real) pela operadora financeira encarregada dos pagamentos.
 
@@ -123,7 +123,7 @@ Ao final, no entanto, caso o cliente não esteja satisfeito com a solução apre
 
 **4. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS**
 
-4.1. Lei Geral de Proteção de Dados Pessoais (LGPD).
+# 4.1. Lei Geral de Proteção de Dados Pessoais (LGPD).
 
 Esta seção serve para atender às exigências da Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de proteger seus dados. Isso é importante para nós pois respeitamos a sua privacidade e por isso, queremos esclarecer alguns pontos importantes.
 
@@ -131,7 +131,7 @@ Seus dados serão tratados e armazenados pela Appjusto, considerada aqui a &quot
 
 Você é o &quot;Titular&quot; dos seus dados de acordo com a Lei 13.709/2018 e é tratado aqui como o &quot;titular&quot; ou &quot;você&quot;.
 
-4.2. Utilização dos dados.
+# 4.2. Utilização dos dados.
 
 Os seus dados pessoais fornecidos poderão ser utilizados para:
 
@@ -146,25 +146,25 @@ d) Ao aceitar o presente termo, você autoriza o AppJusto a:
 - Tomar decisões referentes ao tratamento de seus dados pessoais, conforme as finalidades descritas neste documento.
 - Realizar o tratamento dos seus dados, envolvendo operações a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração conforme as finalidades especificadas neste documento.
 
-4.3. Atualização, cancelamento e exclusão
+# 4.3. Atualização, cancelamento e exclusão
 
 Caso queira atualizar seus dados, cancelar a autorização para o tratamento dos seus dados e pedir a exclusão dos mesmos de nossas bases, basta enviar um e-mail para contato@appjusto.com.br a qualquer momento.
 
-4.4. Compartilhamento de Dados
+# 4.4. Compartilhamento de Dados
 
 O AppJusto poderá compartilhar dados pessoais do Titular com outros agentes de tratamento de dados, caso seja necessário para as finalidades listadas neste termo.
 
-4.5. Segurança dos Dados
+# 4.5. Segurança dos Dados
 
 A AppJusto responsabiliza-se pela manutenção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito. Qualquer incidente de segurança que possa acarretar risco ou dano relevante ao Titular deverá ser comunicado ao titular e à Autoridade Nacional de Proteção de Dados (ANPD) em conformidade ao art. 48 da Lei nº 13.709/2018.
 
-4.6. Término do Tratamento dos Dados
+# 4.6. Término do Tratamento dos Dados
 
 O AppJusto poderá manter e tratar os dados pessoais do Titular por tempo indeterminado.
 
 Dados pessoais anonimizados, sem possibilidade de associação ao indivíduo, poderão ser mantidos por período indefinido. O Titular poderá solicitar via e-mail (contato@appjusto.com.br), a qualquer momento, que sejam eliminados os dados pessoais não anonimizados do Titular.
 
-4.7. Direitos do Titular
+# 4.7. Direitos do Titular
 
 Você tem o direito de obter as seguintes informações do AppJusto, a qualquer momento, mediante requisição através de e-mail (contato@appjusto.com.br):
 
@@ -184,12 +184,12 @@ g) informação das entidades públicas e privadas com as quais o controlador re
 
 h) informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa.
 
-4.8. Dúvidas
+# 4.8. Dúvidas
 
 Caso tenha alguma dúvida que não foi respondida neste documento, mande para a gente no e-mail: [contato@appjusto.com.br](mailto:contato@appjusto.com.br)
 
-5. CONSIDERAÇÕES FINAIS
+**5. CONSIDERAÇÕES FINAIS**
 
-5.1. Lei e Foro.
+# 5.1. Lei e Foro.
 
 Esses termos devem ser interpretados de acordo com a legislação brasileira e em caso de alguma controvérsia ou conflito que surgir e que a appjusto e você não consigam resolver, deverá ser solucionado pela justiça do estado de São Paulo.
