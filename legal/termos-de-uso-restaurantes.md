@@ -1,25 +1,28 @@
 **TERMOS DE USO E CONDIÇÕES PARA RESTAURANTES**
 
 1. **APPJUSTO**
-  1.1. O que é o Appjusto?
+
+1.1. O que é o Appjusto?
 
 Somos uma plataforma de delivery de código fonte livre que busca relações mais justas e equilibradas para todos os envolvidos no ecossistema de delivery no Brasil. Propormos um novo modelo de atuação: mais transparente, sustentável e participativo, e com ele queremos impactar positivamente a vida dos integrantes da plataforma e combater a precarização do trabalho de entregador autônomo.
 
 O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa no formato de sociedade limitada (nossa razão social é JUSTO TECNOLOGIA E INOVAÇÃO SOCIAL LTDA e o nosso CNPJ é 38.447.139/0001-50), entendemos como sendo nosso papel favorecer o melhor funcionamento do delivery e a distribuição justa dos ganhos entre todos os participantes. Mais do que um aplicativo, nos consideramos um movimento que articula uma rede formada por entregadores, clientes, restaurantes e demais parceiros para, através de tecnologia, somar esforços e cumprir os compromissos que firmamos com nossos integrantes.
 
 2. **DA NOSSA RELAÇÃO**
-  2.1. Sobre esses termos.
+
+2.1. Sobre esses termos.
 
 Esses termos regulam a relação entre o appjusto e você restaurante. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a torna públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando a plataforma.
 
-  2.2. Prestação dos serviços
+2.2. Prestação dos serviços
 
 O motivo da sua adesão deve estar claro. Ao aceitar esses termos, entendemos que você decidiu aderir a plataforma appjusto porque está alinhado com nossos princípios norteadores (autonomia e participação; preço justo; eficiência e sustentabilidade financeira; criação de um bem coletivo; transparência, dentre outros) e com nosso modelo de negócios. Sua adesão é feita de forma livre, espontânea e sem nenhum vício de vontade.
 
 A natureza da relação jurídica entre você e seus colaboradores com appjusto, com entregadores e consumidor é de natureza cível e não existe nenhuma relação trabalhista entre quaisquer dos agentes citados.. Se você não acredita nisso, por favor não aceite esses termos.
 
-  2.3. **Condições para fazer parte.**
-    2.3.1. Pré-requisitos.
+2.3. **Condições para fazer parte.**
+  
+2.3.1. Pré-requisitos 
 
 Para você fazer poder operar na nossa plataforma é necessário que você preencha os pré-requisitos abaixo:
 
