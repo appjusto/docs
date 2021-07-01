@@ -2,7 +2,7 @@
 
 **1. APPJUSTO**
 
-1.1. O que é o Appjusto?
+#1.1. O que é o Appjusto?
 
 Somos uma plataforma de delivery de código fonte livre que busca relações mais justas e equilibradas para todos os envolvidos no ecossistema de delivery no Brasil. Propormos um novo modelo de atuação: mais transparente, sustentável e participativo, e com ele queremos impactar positivamente a vida dos integrantes da plataforma e combater a precarização do trabalho de entregador autônomo.
 
@@ -10,7 +10,7 @@ O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa
 
 **2. DA NOSSA RELAÇÃO**
 
-2.1. Sobre esses termos
+#2.1. Sobre esses termos
 
 Esses termos regulam a relação entre o appjusto e você restaurante. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a torna públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando a plataforma.
 
