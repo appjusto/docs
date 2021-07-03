@@ -20,16 +20,16 @@ ou:
 
 # 5. (Staging) Limpar os dados do Firestore e Authentication
 
-`npm run admin -- delete-collections --env dev --fleets --managers --businesses --consumers --couriers --orders --platform --users`
+`npm run admin -- delete-collections --env staging --fleets --managers --businesses --consumers --couriers --orders --platform --users`
 
 # 6. (Staging) Apagar os arquivos do Storage
 
-`gsutil -m rm -r gs://app-justo-dev.appspot.com/businesses`
-`gsutil -m rm -r gs://app-justo-dev.appspot.com/couriers`
-`gsutil -m rm -r gs://app-justo-dev.appspot.com/orders`
-`gsutil -m rm -r gs://app-justo-dev.appspot.com/platform`
+`gsutil -m rm -r gs://app-justo-staging.appspot.com/businesses`
+`gsutil -m rm -r gs://app-justo-staging.appspot.com/couriers`
+`gsutil -m rm -r gs://app-justo-staging.appspot.com/orders`
+`gsutil -m rm -r gs://app-justo-staging.appspot.com/platform`
 
-# 7. (Staging) Apagar os índices do staging
+# 7. (Staging) Apagar os índices do staging no Algolia
 
 # 8. (Staging) Importar os dados do Firestore
 
