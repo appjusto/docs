@@ -67,7 +67,7 @@ Assim, ao aceitar esse Termo você concorda expressamente com os itens abaixo:
 
 ### 3.1. Composição.
 
-Para utilizar a plataforma você na paga nada para o AppJusto e todo o valor que você paga pelos produtos é direcionado aos restaurantes. Da mesma forma todo o valor pago pelas corridas é direcionado aos Entregadores.
+Para utilizar a plataforma para pedir comida você não paga nada para o AppJusto e todo o valor que você paga pelos produtos é direcionado aos restaurantes que nos pagam uma comissão de 5% do valor dos produtos. Se você quiser realizar uma encomenda, você pagar para o AppJusto um valor fixo de R$ 5,00 (cinco reais) por entrega. No caso dos corridas, seja para pedir comida ou para as encomendas, todo o valor pago é direcionado aos Entregadores e o AppJusto não fica com nada.
 
 O Appjusto gostaria de incentivá-lo a fazer o pagamento via PIX para que o valor da sua compra e corrida a serem direcionados aos restaurantes e entregadores seja o maior possível e esteja disponibilizado para eles no menor tempo possível.
 
