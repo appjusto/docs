@@ -63,16 +63,31 @@ npm install
 
 ```bash
 firebase --project app-justo-dev functions:config:set \
+  algolia.appid="" \
+  algolia.apikey="" \
   appjusto.env="" \
   fb.project="" \
   fb.region="" \
-  fb.tasks.matching.queue="matching-queue" \
-  algolia.appid="" \
-  algolia.apikey="" \
+  fb.tasks.serviceaccountemail="" \
+  fb.tasks.matchingqueuename="matching-queue" \
+  fb.tasks.marketplacequeuename="marketplace-queue" \
+  fb.tasks.notificationqueuename="notification-queue" \
+  freshworks.apikey="" \
   googlemaps.apikey="" \
   iugu.accountid="" \
   iugu.testtoken="" \
-  iugu.livetoken=""
+  iugu.livetoken="" \
+  iugu.hooks.secret="" \
+  sendgrid.apikey="" \
+  sendgrid.businesswelcome="" \
+  sendgrid.businessapproved="" \
+  sendgrid.businessfirstorder="" \
+  sendgrid.businessverified="" \
+  sendgrid.courierwelcome="" \
+  sendgrid.courierrejected="" \
+  sendgrid.courierfirstdelivery="" \
+  sentry.dns="" \
+  
 ```
 
 # 8 Deploy Firebase functions
