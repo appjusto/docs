@@ -117,9 +117,18 @@ Caso não queira esperar a compensação dos valores pagos com cartão de crédi
 
 Caso um pedido venha a ser aceito e depois cancelado por você, independente do motivo, mesmo assim será cobrada de você a taxa de R$ 0,09 (nove centavos de real) pela operadora financeira encarregada dos pagamentos.
 
-Entregue o pedido, caso o cliente faça alguma reclamação fundamentada (fotos, por exemplo) em relação ao produto, seja divergência do produto recebido com o pedido, quantidade e/ou defeito no produto, utilizaremos os nossos canais de comunicação para buscar uma solução amigável para esse tipo problema.
+Entregue o pedido, caso o cliente faça alguma reclamação fundamentada (com fotos, por exemplo) em relação ao produto, seja divergência do produto recebido com o pedido, quantidade e/ou defeito no produto, utilizaremos os nossos canais de comunicação para buscar uma solução amigável para esse tipo problema. Daremos preferência ao tratamento do caso diretamente entre as partes envolvidas, as quais poderão ajustar diretamente maneiras para solução do conflito.
 
-Ao final, no entanto, caso o cliente não esteja satisfeito com a solução apresentada por você, a cobrança feita ao cliente será totalmente estornada (frente e gorjeta, inclusos) e o estabelecimento será responsável pelo pagamento do frete, da gorjeta, da contraprestação paga ao AppJusto e da taxa cobrada pela Iugu pelo processamento do pagamento estornado.
+Ao final, caso o cliente não esteja satisfeito com a solução apresentada por você, a cobrança feita ao cliente será totalmente estornada (entrega e gorjeta, inclusive) e você será responsável pelo pagamento da entrega, da gorjeta, da contraprestação paga ao AppJusto e da taxa cobrada pela Iugu pelo processamento do pagamento estornado.
+
+A mesma solução será aplicada em caso de pedidos extraviados e sempre quando a solução apresentada por você não seja satisfatória pelo cliente e o estorno dos valores pagos por ele sejam estornados.
+
+Caso o pedido seja cancelado pelo cliente por não ter sido encontrado entregador/a, seja entregador/a que utilize a plataforma AppJusto, seja entregador da própria frota do restaurante, você não receberá pelo produto. Essa solução também será aplicada caso o pedido já tenha sido preparado.
+
+Em caso de fraudes, a responsabilidade pelo reembolso dos valores será decidida a depender de cada caso, a depender da responsabilidade de cada um dos envolvidos (AppJusto, entregador, cliente e estabelecimento). Nesse caso, nós do AppJusto nos comprometemos a buscar uma solução o mais rápido possível e sempre envolvendo as partes afetadas, quando cabível. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis  e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
+
+Finalmente, em caso de acidente com o/a entregador/a da frota própria do estabelecimento, você também será responsabilizado pelo estorno ao cliente. Caso o/a entregador/a for parceiro do AppJusto, todos os custos de reembolso ao cliente e pagamento pela entrega e pelo produto serão suportados por nós.
+
 
 # 4. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
 
