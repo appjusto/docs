@@ -1,13 +1,10 @@
-# 1. (Live) Fazer backup do Firestore
+# 1. (Live) Fazer backup do live
 
-`npm run admin -- run-backup --env live`
+`npm run admin -- run-backup --firestore --storage --env live`
 
 ou:
 
 `gcloud firestore export gs://app-justo-live-backups/firestore/{timestamp}`
-
-# 2. (Live) Fazer backup do Storage
-
 `gsutil -m cp -r gs://app-justo-live.appspot.com gs://app-justo-live-backups/storage/{timestamp}`
 
 # 3. (Live -> Staging) Copiar backup do Firestore do bucket live para o bucket staging
