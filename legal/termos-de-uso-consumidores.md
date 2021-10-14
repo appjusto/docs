@@ -12,7 +12,7 @@ O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa
 
 ### 2.1. Sobre esses termos.
 
-Esses termos regulam a relação entre o appjusto e você cliente. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa usar a plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a torna públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando a plataforma.
+Esses termos regulam a relação entre o appjusto e você cliente. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa usar a plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a tornar públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando a plataforma.
 
 ### 2.2. Prestação dos serviços
 
@@ -73,9 +73,13 @@ O Appjusto gostaria de incentivá-lo a fazer o pagamento via PIX para que o valo
 
 ### 3.2. Estornos e cancelamentos
 
-O pedido poderá ser cancelado por você sem custos antes do início do preparo pelo restaurante e depois disso incidirá o valor pago pelos produtos e, caso um entregador já tenha sido alocado para a entrega, também do valor da entrega.
+Na entrega de comida (restaurantes), o pedido poderá ser cancelado por você sem custos antes do início do preparo pelo restaurante e depois disso será devido o valor pago pelos produtos e também do valor da entrega, caso um entregador já tenha sido alocado para a entrega.
 
-Caso o pedido tenha sido entregue o pedido e você tenha alguma reclamação ela deve ser feita da forma fundamentada e mais detalhada possível (fotos, por exemplo) para que possamos utilizar os nossos canais de comunicação para buscar uma solução amigável com você, melhorando, assim, a sua experiência com o AppJusto e para que, em último caso, possamos proceder o reembolso e/ou estornos devidos.
+Caso o pedido tenha sido entregue e você tenha alguma reclamação ela deve ser feita da forma fundamentada e mais detalhada possível (fotos, por exemplo) para que possamos utilizar os nossos canais de comunicação para buscar uma solução amigável com você, melhorando, assim, a sua experiência com o AppJusto e para que, em último caso, possamos proceder o reembolso e/ou estornos devidos.
+
+Na entrega de encomendas, o pedido poderá ser cancelado por você sem custos antes da alocação do entregador para a corrida e depois disso será devido o valor da corrida (frete) além do valor cobrado pelo AppJusto de R$ 5,00 (cinco reais). Caso a encomenda já tenha sido recolhida, o cancelamento somente poderá ser feito via nossos canais de comunicação.
+
+Não nos responsabilizamos pelo extravio, perda, furto ou roubo de qualquer natureza de produtos na modalidade de encomendas, mas caso ocorra, colaboraremos com você da melhor forma para que possa identificar o ocorrido.
 
 ## 4. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
 
