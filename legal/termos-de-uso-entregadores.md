@@ -48,8 +48,13 @@ f) O transporte utilizado é de sua propriedade ou, em não o sendo, declara ser
 A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto:
 
 a) Desrespeito aos presentes termos de uso e suas atualizações futuras
+
 b) Fraudes, inclusive aluguel e/ou empréstimo da sua conta na plataforma
+
 c) Uso indevido da marca, nome e da plataforma com a intenção de prejudicar qualquer pessoa
+
+Em caso de extravio, perda, furto ou roubo dos produtos que estejam sob sua responsabilidade, para que possamos fazer a análise criteriosa do caso, precisaremos que você entre em contato com o nosso suporte e nos envie um relato detalhado do caso bem como o Boletim de Ocorrência.
+
 
 ## 3. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
 
