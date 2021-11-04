@@ -8,7 +8,7 @@
 # 2 Configure Firebase Authentication backend
 
 1. Enable Email/password sign-in method (with 'Email link (passwordless sign-in) enabled')
-2. Add domains to 'Authorized domains', ex: staging.admin.appjusto.com.br staging.deeplink.appjusto.com.br
+2. Add domains to 'Authorized domains', ex: staging.admin.appjusto.com.br, s.deeplink.appjusto.com.br, staging.login.appjusto.com.br
 3. In 'Templates', configure 'Template language' to desired language;
 4. Update Sender name, from, reply to and subect accordinly;
 5. Add/update DNS entry to include TXT to validate domain;
@@ -96,21 +96,72 @@ firebase --project app-justo-dev functions:config:set \
 firebase deploy --project <project-id>
 ```
 
-# 9 Set initial data in Firebase Firestore
+# 9 Configuring GCP Cloud Tasks
+
+1. [Enable Cloud Tasks API](https://console.cloud.google.com/apis/library/cloudtasks.googleapis.com/?q=cloud%20tasks)
+2. Select correct project, ex: `gcloud config set project app-justo-dev`
+3. Create queue:
 
 ```bash
-npm run build
-REMOTE=true npm run bootstrap
+gcloud tasks queues create matching-queue \
+  --max-dispatches-per-second=500 \
+  --max-concurrent-dispatches=1000 \
+  --max-attempts=40 \
+  --min-backoff=15s \
+  --max-backoff=15s \
+  --max-doublings=1 \
+  --max-retry-duration=15s \
+  --log-sampling-ratio=1.0
 ```
 
-# 10 Clone admin repository and install dependencies
+4. [Create service account](https://cloud.google.com/tasks/docs/creating-http-target-tasks)
+
+4.1. Name as tasks-enqueuer and add a description to it
+4.2 Add "Cloud Tasks > Cloud Tasks Enqueuer", "Services Account > Service Account User" and "Cloud Functions > Cloud Function Invoker" roles;
+
+5. Update config and deploy task handler
+
+4.3. Set serviceaccountemail
+4.4. Deploy matchingTaskHandler
+4.5. Edit permissions to remove 'allUsers' and add 'allAuthenticatedUsers' with role 'Cloud function Invoker'
+
+5. Set fb.tasks.serviceAccountEmail
+
+# 10 Set initial data in Firebase Firestore
+
+```bash
+npm run build && node lib/admin/cli/platform bootstrap --env dev
+```
+
+# 11 Algolia
+
+1. Create new application
+2. Create indexes for business, products and fleets;
+3. Create replicas for business and products;
+4. Configure indexes and replicas (searchable attributes; ranking and sorting; facets, languages)
+
+# 12 Enable Resize extension
+
+# 13 Create Dynamic Link for deeplinks
+
+# 14 Add permissions for service account (for backups)
+
+```bash
+gcloud projects add-iam-policy-binding app-justo-community \
+    --member serviceAccount:app-justo-community@appspot.gserviceaccount.com \
+    --role roles/datastore.importExportAdmin
+gsutil iam ch serviceAccount:app-justo-community@appspot.gserviceaccount.com:admin \
+    gs://app-justo-community-backups
+```
+
+# 15 Clone admin repository and install dependencies
 
 ```bash
 git clone git@github.com:appjusto/admin.git
 cd admin && yarn install
 ```
 
-# 11 Configure environment variables
+# 16 Configure environment variables
 
 Create a file named `.env.local` filling up these variables:
 
@@ -129,7 +180,7 @@ REACT_APP_FIREBASE_EMULATOR_PORT=
 " > .env.local
 ```
 
-# 12 Configure .firebaserc
+# 17 Configure .firebaserc
 
 1. Create a file called `.firebaserc` in the root directory:
 
@@ -148,39 +199,39 @@ REACT_APP_FIREBASE_EMULATOR_PORT=
 }
 ```
 
-# 12 Create Apps
+# 18 Create Apps
 
 1. Go to "Project Settings" > "General"
 2. Add App for Admin;
 3. Add App for both flavors for iOS, Android and Web;
 
-# 13 Add another site to Hosting for Admin
+# 19 Add another site to Hosting for Admin
 
-1. Click on "Add another site" at the bottom of Hosting and name with something like appjusto-admin-staging
-2. Add custom domain like staging.admin.appjusto.com.br
+1. Click on "Add another site" at the bottom of Hosting and name with something like appjusto-admin-dev
+2. Add custom domain like dev.admin.appjusto.com.br
 
-# 14 Deploy Admin
+# 20 Deploy Admin
 
 ```bash
 npm run build
-firebase deploy --project <project-id>
+yarn deploy:dev
 ```
 
-# 15 Add another site to Hosting for Deeplink
+# 21 Add another site to Hosting for Deeplink
 
 1. Click on "Add another site" and name with something like appjusto-deeplink-staging
-2. Add custom domain like staging.deeplink.appjusto.com.br
+2. Add custom domain like s.deeplink.appjusto.com.br
 
-# 16 Configure sources in Segment
+# 22 Configure sources in Segment
 
-# 17 Download google-services.json
+# 23 Download google-services.json
 
 1. Go to "Project settings" > "Your Apps"
 2. Select on of the Android apps
 3. Click on 'google-services.json'
 4. Save this file on the App root directory
 
-# 18 Build expo
+# 24 Build expo
 
 1. Create a `.env` file and configure with:
 
@@ -214,7 +265,7 @@ FLAVOR=consumer expo build:android --release-channel dev
 FLAVOR=courier expo build:android --release-channel <environment>
 ```
 
-# 18 Configure fingerprints for Android Apps
+# 25 Configure fingerprints for Android Apps
 
 1. Fetch android hashes
 
@@ -224,62 +275,3 @@ FLAVOR=courier expo fetch:android:hashes
 
 2. Add fingerprints to Android Apps
 
-# 19 Algolia
-
-1. Create new application
-2. Create indexes for business, products and fleets;
-3. Create replicas for business and products;
-4. Configure indexes and replicas (searchable attributes; ranking and sorting; facets, languages)
-
-# 20 Enable Resize extension
-
-# 21 Create Dynamic Link for deeplinks
-
-# 22 Add permissions for service account (for backups)
-
-```bash
-gcloud projects add-iam-policy-binding app-justo-dev \
-    --member serviceAccount:app-justo-dev@appspot.gserviceaccount.com \
-    --role roles/datastore.importExportAdmin
-gsutil iam ch serviceAccount:app-justo-dev@appspot.gserviceaccount.com:admin \
-    gs://app-justo-dev-backups
-```
-
-# 24 Configuring GCP Cloud Tasks
-
-1. [Enable Cloud Tasks API](https://console.cloud.google.com/apis/library/cloudtasks.googleapis.com/?q=cloud%20tasks)
-2. Select correct project, ex: `gcloud config set project app-justo-dev`
-3. Create queue:
-
-```bash
-gcloud tasks queues create matching-queue \
-  --max-dispatches-per-second=500 \
-  --max-concurrent-dispatches=1000 \
-  --max-attempts=40 \
-  --min-backoff=15s \
-  --max-backoff=15s \
-  --max-doublings=1 \
-  --max-retry-duration=15s \
-  --log-sampling-ratio=1.0
-```
-
-4. [Create service account](https://cloud.google.com/tasks/docs/creating-http-target-tasks)
-
-4.1 Add "Cloud Tasks > Cloud Tasks Enqueuer", "Services Account > Service Account User" and "Cloud Functions > Cloud Function Invoker" roles;
-4.2. Name as tasks-enqueuer and add a description to it
-
-5. Update config and deploy task handler
-
-4.3. Set serviceaccountemail
-4.4. Deploy matchingTaskHandler
-4.5. Edit permissions to remove 'allUsers' and add 'allAuthenticatedUsers' with role 'Cloud function Invoker'
-
-gcloud projects add-iam-policy-binding matchingTaskHandler \
- --member serviceAccount:<email> \
- --role roles/cloudfunctions.invoker --region <region>
-
-gcloud projects remove-iam-policy-binding matchingTaskHandler \
- --member allUsers \
- --role roles/cloudfunctions.invoker --region <region>
-
-5. Set fb.tasks.serviceAccountEmail
