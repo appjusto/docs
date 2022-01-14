@@ -7,7 +7,7 @@
 
 # 2 Configure Firebase Authentication backend
 
-1. Enable Email/password sign-in method (with 'Email link (passwordless sign-in) enabled')
+1. Enable Phone and Email/password sign-in method (with 'Email link (passwordless sign-in) enabled')
 2. Add domains to 'Authorized domains', ex: staging.admin.appjusto.com.br, s.deeplink.appjusto.com.br, staging.login.appjusto.com.br
 3. In 'Templates', configure 'Template language' to desired language;
 4. Update Sender name, from, reply to and subect accordinly;
@@ -221,6 +221,8 @@ yarn deploy:dev
 
 1. Click on "Add another site" and name with something like appjusto-deeplink-staging
 2. Add custom domain like s.deeplink.appjusto.com.br
+
+# 21.2 Add deeplinks to domain.login.appjusto.com.br/consumer and /courier
 
 # 22 Configure sources in Segment
 
