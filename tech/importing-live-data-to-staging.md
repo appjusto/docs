@@ -4,20 +4,41 @@
 
 ou:
 
+gcloud config set project app-justo-dev
+gcloud firestore export gs://app-justo-dev-backups/firestore/orders --collection-ids=orders
+
 `gcloud firestore export gs://app-justo-live-backups/firestore/{timestamp}`
-`gsutil -m cp -r gs://app-justo-live.appspot.com gs://app-justo-live-backups/storage/{timestamp}`
+`gsutil -m -o GSUtil:parallel_process_count=1 -o GSUtil:parallel_thread_count=2 cp -r gs://app-justo-live.appspot.com gs://app-justo-live-backups/storage/{timestamp}`
 
 # 2. (Live -> Staging) Copiar backup do Firestore do bucket live para o bucket staging
 
-`gsutil -m cp -r gs://app-justo-live-backups/firestore/2021-12-16T07:00:03.990Z gs://app-justo-staging-backups/firestore/imported-from-live/2021-12-16T07:00:03.990Z`
+`gsutil -m -o GSUtil:parallel_process_count=1 -o GSUtil:parallel_thread_count=2 cp -r gs://app-justo-live-backups/firestore/{timestamp} gs://app-justo-staging-backups/firestore/imported-from-live/{timestamp}`
 
 # 3. (Live -> Staging) Copiar arquivos do Storage do bucket live para o bucket staging
 
-`gsutil -m cp -r gs://app-justo-live-backups/storage/{timestamp} gs://app-justo-staging-backups/storage/imported-from-live/{timestamp}`
+`gsutil -m -o GSUtil:parallel_process_count=1 -o GSUtil:parallel_thread_count=2 cp -r gs://app-justo-live-backups/storage/{timestamp} gs://app-justo-staging-backups/storage/imported-from-live/{timestamp}`
 
 # 4. (Staging) Limpar os dados do Firestore e Authentication
 
-`npm run build && node lib/admin/cli/data/delete collections advances businesses consumers couriers fleets invoices managers orders platform recommendations users withdraws transfers --delete-users --env staging`
+`npm run build && node lib/admin/cli/data/delete --delete-users --env staging`
+`
+firebase --project app-justo-staging firestore:delete advances -r && \
+firebase --project app-justo-staging firestore:delete businesses -r && \
+firebase --project app-justo-staging firestore:delete consumers -r && \
+firebase --project app-justo-staging firestore:delete couriers -r && \
+firebase --project app-justo-staging firestore:delete chats -r && \
+firebase --project app-justo-staging firestore:delete fleets -r && \
+firebase --project app-justo-staging firestore:delete invoices -r && \
+firebase --project app-justo-staging firestore:delete managers -r && \
+firebase --project app-justo-staging firestore:delete orders -r && \
+firebase --project app-justo-staging firestore:delete platform -r && \
+firebase --project app-justo-staging firestore:delete recommendations -r && \
+firebase --project app-justo-staging firestore:delete reviews -r
+firebase --project app-justo-staging firestore:delete transfers -r && \
+firebase --project app-justo-staging firestore:delete users -r && \
+firebase --project app-justo-staging firestore:delete warehouse -r && \
+firebase --project app-justo-staging firestore:delete withdraws -r
+`
 
 # 5. (Staging) Apagar os arquivos do Storage
 
