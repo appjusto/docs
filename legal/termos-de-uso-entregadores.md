@@ -42,10 +42,12 @@ c) Tem ciência que somente é permitido o transporte de produtos lícitos, isto
 d) É de sua responsabilidade dispor de todos os meios para realizar a entrega (habilitação, veículo, manutenção, equipamento de segurança, bag, smartphone, plano de dados, GPS, linha telefônica, combustível, etc.) e se responsabilizar por qualquer despesa que seja necessária para dispor desses meios.
 e) Sob pena de responder civil e criminalmente, você declara que todos os documentos e informações cadastrais enviados à Plataforma do AppJusto são autênticos, atuais e verdadeiros.
 f) O transporte utilizado é de sua propriedade ou, em não o sendo, declara ser de propriedade de outra pessoa que o cedeu por livre e espontânea vontade para que você pudesse desempenhar o seu trabalho, sendo você o único responsável por quaisquer irregularidades e penalidades relacionadas ao uso desse transporte;
+g) Ao aceitar uma corrida você deverá dirigir-se diretamente aos endereços indicados na plataforma observando o tempo de percurso indicado. 
+h) Manter contato com a nossa equipe de suporte em caso de qualquer problema no decorrer de uma corrida que impeça você executá-la ou de dirigir-se diretamente aos endereços indicados na plataforma.
 
-#### 2.3.3. Suspensão e banimento.
+#### 2.3.3. Suspensão, exclusão e banimento.
 
-A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto:
+A suspensão, exclusão e/ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto:
 
 a) Desrespeito aos presentes termos de uso e suas atualizações futuras
 
@@ -53,7 +55,13 @@ b) Fraudes, inclusive aluguel e/ou empréstimo da sua conta na plataforma
 
 c) Uso indevido da marca, nome e da plataforma com a intenção de prejudicar qualquer pessoa
 
+d) Em razão de suspeita de prática de infração penal prevista na legislação vigente ou conduta antiética durante a prestação dos serviços
+
 Em caso de extravio, perda, furto ou roubo dos produtos que estejam sob sua responsabilidade, para que possamos fazer a análise criteriosa do caso, precisaremos que você entre em contato com o nosso suporte e nos envie um relato detalhado do caso bem como o Boletim de Ocorrência.
+
+A aplicação da exclusão de conta da plataforma será precedida de comunicação prévia, com antecedência mínima de 3 (três) dias úteis, e será acompanhada das razões que a motivaram o AppJusto a tomar essa decisão. Nossas razões serão sempre fundamentadas e iremos preservar a sua segurança e privacidade.
+
+O prazo de 3 (três) dias úteis acima, não será aplicado e a exclusão poderá ser feita de imediato em caso de uma ameaça à segurança e à integridade da nossa plataforma, dos fornecedores e dos consumidores, em razão de suspeita de prática de infração penal prevista na legislação vigente.
 
 
 ## 3. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
