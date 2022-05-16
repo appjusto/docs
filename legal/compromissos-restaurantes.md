@@ -13,6 +13,7 @@ Me comprometo a:
 - Auxiliar na melhoria do projeto informando caso identifique algum BUG ou com sugestões.
 - Manter a loja aberta no horário definido e aceitar os pedidos.
 - Manter itens disponíveis atualizados e equipe treinada para operar na plataforma.
+- Respeitar e cumprir os Termos de Uso e Condições para Restaurantes, inclusive no que diz respeito aos estornos e cancelamentos, assumindo a responsabilidade pelos valores ali indicados nos casos de: (a) reclamações fundamentadas do cliente em relação ao produto entregue; (b) produtos extraviados; (c) cancelamento de pedido em preparo ou já preparado quando não é encontrado/a entregador/a; (d) cancelamento por parte do restaurante depois do pedido aceito, independente do motivo; (e) acidente com o/a entregador/a da frota própria do estabelecimento; e demais hipóteses constantes nos Termos de Uso e Condições para Restaurantes, sendo certo que a depender do caso você será responsável pelo valor do produto, da entrega, da gorjeta, da contraprestação paga ao AppJusto e da taxa cobrada pela Iugu pelo processamento do pagamento estornado.
 
 Entendo a importância de ajudar na divulgação do AppJusto para outros restaurantes e atração de consumidores para que este movimento ganhe corpo e se consolide como uma alternativa para equilíbrio no mercado de delivery.
 
