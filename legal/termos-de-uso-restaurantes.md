@@ -61,7 +61,7 @@ Assim, ao aceitar esse Termo você concorda expressamente com os itens abaixo:
 
 a) Manter as informações inseridas na plataforma sempre atualizadas, respondendo pela veracidade das mesmas, bem como honrar os preços e promoções publicadas;
 
-b) Sempre que possível pPraticar preços inferiores a outros Apps e os mesmos preços do cardápio da loja física;
+b) Sempre que possível praticar preços inferiores a outros Apps ou os mesmos preços do cardápio da loja física;
 
 c) Auxiliar o AppJusto na melhoria da plataforma, seja nos informando sempre que identifique algum defeito que provoque o mau funcionamento da plataforma, seja com o envio de sugestões de melhoria;
 
