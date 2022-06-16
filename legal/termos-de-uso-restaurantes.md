@@ -101,8 +101,6 @@ Para viabilizar os pagamentos precisaremos criar uma conta na plataforma da Iugu
 
 O Appjusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça no mesmo dia, sem necessidade de adiantamento.
 
-Haverá também uma mensalidade de R$ 50,00 (cinquenta reais) a ser paga para o AppJusto que será devida sempre quando o seu estabelecimento tiver feito um faturamento maior do que R$ 1.500,00 (mil e quinhentos reais) dentro de um mês com a AppJusto.
-
 Já o frete pago pelo cliente será creditado integralmente para o estabelecimento caso você utilize outra forma de entrega do pedido por falta de entregadores AppJusto.
 
 Quando os valores estiverem compensados você verá em &quot;Disponível para saque&quot; o valor que você já poderá retirar para sua conta corrente.
@@ -125,7 +123,7 @@ A mesma solução será aplicada em caso de pedidos extraviados e sempre quando 
 
 Caso o pedido seja cancelado pelo cliente por não ter sido encontrado entregador/a, seja entregador/a que utilize a plataforma AppJusto, seja entregador da própria frota do restaurante, você não receberá pelo produto. Essa solução também será aplicada caso o pedido já tenha sido preparado.
 
-Em caso de fraudes, a responsabilidade pelo reembolso dos valores será decidida a depender de cada caso, a depender da responsabilidade de cada um dos envolvidos (AppJusto, entregador, cliente e estabelecimento). Nesse caso, nós do AppJusto nos comprometemos a buscar uma solução o mais rápido possível e sempre envolvendo as partes afetadas, quando cabível. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis  e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
+Em caso de fraudes, a responsabilidade pelo reembolso dos valores será decidida a depender de cada caso, a depender da responsabilidade de cada um dos envolvidos (AppJusto, entregador, cliente e estabelecimento/restaurante). Nesse caso, nós do AppJusto nos comprometemos a buscar uma solução o mais rápido possível e sempre envolvendo as partes afetadas, quando cabível. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis  e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
 
 Finalmente, em caso de acidente com o/a entregador/a da frota própria do estabelecimento, você também será responsabilizado pelo estorno ao cliente. Caso o/a entregador/a for parceiro do AppJusto, todos os custos de reembolso ao cliente e pagamento pela entrega e pelo produto serão suportados por nós.
 
