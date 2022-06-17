@@ -171,6 +171,10 @@ Caso não queira esperar a compensação dos valores pagos com cartão de crédi
 
 Tanto para entregadores quanto para restaurantes, no momento que solicitar a transferência dos ganhos ou adiantamento, será cobrada uma tarifa de R$2,00, usada para pagar a instituição financeira pela transação. Em todo mês que houver alguma movimentação na conta, a taxa será cobrada pela instituição financeira (onde os valores estão sendo "acumulados") o valor de R$0,50 pela manutenção da conta.
 
+## 5.5. Estornos e cancelamentos.
+
+Em caso de fraudes em que haja contestação do pagamento por parte do cliente (chargeback), o AppJusto tomará todas as medidas cabíveis para defender a regularidade da transação apresentando defesa à contestação. Caso a defesa apreesentada não seja acatada pela operadora de cartão de crédito, o entregador, o restaurante e o AppJusto assumirão seus próprios prejuízos. Isso quer dizer que o restaurante não receberá pelos produtos, o AppJusto não receberá a comissão devida e você não receberá pela corrida e gorjeta, caso aplicável. O AppJusto, no entanto, poderá arcar com os custos caso seja constatado que os mecanismos de prevenção à fraude falharam. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
+
 ## 6. CONSIDERAÇÕES FINAIS
 
 ### 6.1. Lei e Foro.
