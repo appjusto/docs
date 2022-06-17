@@ -75,6 +75,12 @@ g) Ter o compromisso de fazer o suporte aos clientes em primeira instância em r
 
 h) Entender a importância de ajudar na divulgação do AppJusto para outros restaurantes e atração de consumidores para que este movimento ganhe corpo e se consolide como uma alternativa para equilíbrio no mercado de delivery.
 
+i) Ter ciência e estar de acordo que todas as mensagens trocadas entre você, cliente e AppJusto, seja no chat da plataforma, por e-mail, aplicativos de troca de mensagens ou de outras formas, não são privadas e são constantemente monitoradas como forma de evitar abusos, identificar problemas e aperfeiçoar a operação.Caso o AppJusto identifique qualquer irregularidade ou desrespeito aos presentes Termos no conteúdo da mensagem, o envio da mesma poderá bloqueado pela plataforma para que não chegue ao destinatário. Independente do bloqueio da mensagem suspeita, esta estará sujeita a nossa análise e você poderá ser punido caso o conteúdo da mesma desrespeite os presentes Termos; 
+
+j) O chat da plataforma deverá ser utilizado exclusivamente para questões relacionadas à prestação de serviços e fornecimento de produtos; 
+
+k) Toda e qualquer transação financeira pela prestação do seus serviços obrigatoriamente deve ser feita dentro da plataforma, sendo proibido a solicitação de qualquer tipo de remuneração, ao cliente fora da plataforma.
+
 **2.3.5. Suspensão e banimento**
 
 É possível que você seja suspenso ou banido da plataforma. A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto (no futuro essa decisão também será submetida a um conselho composto por appjusto, entregadores, restaurantes e parceiros):
@@ -123,7 +129,7 @@ A mesma solução será aplicada em caso de pedidos extraviados e sempre quando 
 
 Caso o pedido seja cancelado pelo cliente por não ter sido encontrado entregador/a, seja entregador/a que utilize a plataforma AppJusto, seja entregador da própria frota do restaurante, você não receberá pelo produto. Essa solução também será aplicada caso o pedido já tenha sido preparado.
 
-Em caso de fraudes, a responsabilidade pelo reembolso dos valores será decidida a depender de cada caso, a depender da responsabilidade de cada um dos envolvidos (AppJusto, entregador, cliente e estabelecimento/restaurante). Nesse caso, nós do AppJusto nos comprometemos a buscar uma solução o mais rápido possível e sempre envolvendo as partes afetadas, quando cabível. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis  e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
+Em caso de fraudes em que haja contestação do pagamento por parte do cliente (chargeback), o AppJusto tomará todas as medidas cabíveis para defender a regularidade da transação apresentando defesa à contestação. Caso a defesa apreesentada não seja acatada pela operadora de cartão de crédito, o restaurante e o AppJusto assumirão seus próprios prejuízos. Isso quer dizer que o restaurante não receberá pelos produtos e o AppJusto não receberá a comissão devida. O AppJusto, no entanto, poderá arcar com os custos caso seja constatado que os mecanismos de prevenção à fraude falharam. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis  e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
 
 Finalmente, em caso de acidente com o/a entregador/a da frota própria do estabelecimento, você também será responsabilizado pelo estorno ao cliente. Caso o/a entregador/a for parceiro do AppJusto, todos os custos de reembolso ao cliente e pagamento pela entrega e pelo produto serão suportados por nós.
 
