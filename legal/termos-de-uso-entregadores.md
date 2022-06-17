@@ -44,6 +44,8 @@ e) Sob pena de responder civil e criminalmente, você declara que todos os docum
 f) O transporte utilizado é de sua propriedade ou, em não o sendo, declara ser de propriedade de outra pessoa que o cedeu por livre e espontânea vontade para que você pudesse desempenhar o seu trabalho, sendo você o único responsável por quaisquer irregularidades e penalidades relacionadas ao uso desse transporte;
 g) Ao aceitar uma corrida você deverá dirigir-se diretamente aos endereços indicados na plataforma observando o tempo de percurso indicado. 
 h) Manter contato com a nossa equipe de suporte em caso de qualquer problema no decorrer de uma corrida que impeça você executá-la ou de dirigir-se diretamente aos endereços indicados na plataforma.
+i) tem ciência e está de acordo que todas as mensagens trocadas entre você, cliente e AppJusto, seja no chat da plataforma, por e-mail, aplicativos de troca de mensagens ou de outras formas, não são privadas e são constantemente monitoradas como forma de evitar abusos, identificar problemas e aperfeiçoar a operação.Caso o AppJusto identifique qualquer irregularidade ou desrespeito aos presentes Termos no conteúdo da mensagem, o envio da mesma poderá bloqueado pela plataforma para que não chegue ao destinatário. Independente do bloqueio da mensagem suspeita, esta estará sujeita a nossa análise e você poderá ser punido caso o conteúdo da mesma desrespeite os presentes Termos; 
+j) que o chat da plataforma deverá ser utilizado exclusivamente para questões relacionadas à prestação de serviços; k) que toda e qualquer transação financeira pela prestação do seus serviços, inclusive gorjetas, obrigatoriamente deve ser feita dentro da plataforma, sendo proibido que você solicite qualquer tipo de remuneração, inclusive gorjetas, ao cliente fora da plataforma.
 
 #### 2.3.3. Suspensão, exclusão e banimento.
 
@@ -56,6 +58,8 @@ b) Fraudes, inclusive aluguel e/ou empréstimo da sua conta na plataforma
 c) Uso indevido da marca, nome e da plataforma com a intenção de prejudicar qualquer pessoa
 
 d) Em razão de suspeita de prática de infração penal prevista na legislação vigente ou conduta antiética durante a prestação dos serviços
+
+f) Divulgação por qualquer meios de informações falsas  sobre a plataforma, sobre os presentes Termos, bem como sobre os fluxos e procedimentos utilizados na plataforma
 
 Em caso de extravio, perda, furto ou roubo dos produtos que estejam sob sua responsabilidade, para que possamos fazer a análise criteriosa do caso, precisaremos que você entre em contato com o nosso suporte e nos envie um relato detalhado do caso bem como o Boletim de Ocorrência.
 
