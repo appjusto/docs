@@ -41,6 +41,9 @@ Como em todo tipo de relação jurídica, a sua relação com o AppJusto, restau
 
 1. Deve se relacionar com todos os agentes (AppJusto, entregadores, restaurantes) da forma mais ética, correta, respeitosa, segura e justa possível, assumindo a responsabilidade por todos os atos praticados por você durante o uso da plataforma.
 2. Sob pena de responder civil e criminalmente, você declara que todas as informações cadastrais enviados à Plataforma do Appjusto são autênticos, atuais e verdadeiros.
+3. Tem ciência e está de acordo que todas as mensagens trocadas entre você, entregador e AppJusto, seja no chat da plataforma, por e-mail, aplicativos de troca de mensagens ou de outras formas, não são privadas e são constantemente monitoradas como forma de evitar abusos, identificar problemas e aperfeiçoar a operação. Caso o AppJusto identifique qualquer irregularidade ou desrespeito aos presentes Termos no conteúdo da mensagem, o envio da mesma poderá bloqueado pela plataforma para que não chegue ao destinatário. Independente do bloqueio da mensagem suspeita, esta estará sujeita a nossa análise e você poderá ser punido caso o conteúdo da mesma desrespeite os presentes Termos; 
+4. O chat da plataforma deverá ser utilizado exclusivamente para questões relacionadas à prestação de serviços; 
+5. Toda e qualquer transação financeira, inclusive gorjetas, obrigatoriamente deve ser feita dentro da plataforma, sendo proibido qualquer tipo de remuneração fora da plataforma.
 
 #### 2.3.4. Compromissos
 
