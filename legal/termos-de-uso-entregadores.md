@@ -157,13 +157,13 @@ Como o processamento do pagamento e custódia é feito por uma instituição fin
 
 Dependendo da forma como o consumidor fizer o pagamento, quando o valor for compensado na sua conta digital, será disponibilizado para você esse valor para o saque. Assim, pagamentos feitos pelo consumidor com o PIX serão compensados em até 1 dia na sua conta, e cartão de crédito 30 dias, para você sacar esses valores.
 
-No caso de pagamento no cartão de crédito a dedução hoje é de R $ 0,09 + 2,5% do valor da corrida. No caso de pagamento via PIX, o valor da dedução é de R $ 0,09 + 0,9% do valor da corrida. O AppJusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça o mais rápido possível, sem necessidade de adiantamento.
+No caso de pagamento no cartão de crédito a dedução hoje é de R $ 0,09 + 2,42% do valor da corrida. No caso de pagamento via PIX, o valor da dedução é de R $ 0,09 + 0,99% do valor da corrida. O AppJusto incentivará o consumidor a fazer o pagamento via PIX para que a dedução seja menor para você, e também para que o depósito aconteça o mais rápido possível, sem necessidade de adiantamento.
 
 Quando os valores estiverem compensados você verá em "Disponível para saque" o valor que você já poderá retirar para sua conta corrente.
 
 ## 5.3. Adiantamento.
 
-Caso não queira esperar a compensação dos valores pagos com cartão de crédito pelos seus clientes é possível fazer um adiantamento dos valores ainda não compensados mediante um pagamento de uma taxa de 2,5%.
+Caso não queira esperar a compensação dos valores pagos com cartão de crédito pelos seus clientes é possível fazer um adiantamento dos valores ainda não compensados mediante um pagamento de uma taxa de 3,45%.
 
 É importante destacar que essas operações financeiras são feitas por uma empresa que possui taxas e essas taxas não são destinadas ao AppJusto.
 
