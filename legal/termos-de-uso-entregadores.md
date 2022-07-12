@@ -153,7 +153,9 @@ O AppJusto disponibilizará algumas frotas como sugestão de condições que nos
 
 O AppJusto não fica com nenhuma parte do valor da corrida do entregador, e se o entregador faz parte de uma frota, como já dissemos, esse o grupo tem total autonomia para definir o valor da corrida.
 
-Como o processamento do pagamento e custódia é feito por uma instituição financeira, existe uma dedução das taxas da instituição financeira, conforme o tipo de pagamento escolhido pelo cliente.
+Como o processamento do pagamento e custódia é feito por uma operadora financeira (&quot;gateway de pagamento&quot;), existe somente a dedução das taxas dessa operadora para processar o seu pagamento conforme o tipo de pagamento escolhido pelo cliente.
+
+Atualmente temos como parceira a [Iugu](https://www.iugu.com/) que atua operadora de pagamentos e ao aceitar esses Termos você também aceita os [termos](https://www.iugu.com/juridico/termos-de-servico/), [a política de privacidade](https://www.iugu.com/juridico/politica-de-privacidade/) e a [política de segurança](https://www.iugu.com/juridico/politica-de-seguranca) da Iugu.
 
 Dependendo da forma como o consumidor fizer o pagamento, quando o valor for compensado na sua conta digital, será disponibilizado para você esse valor para o saque. Assim, pagamentos feitos pelo consumidor com o PIX serão compensados em até 1 dia na sua conta, e cartão de crédito 30 dias, para você sacar esses valores.
 
