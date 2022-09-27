@@ -17,4 +17,4 @@ Me comprometo a:
 
 Entendo a importância de ajudar na divulgação do AppJusto para outros restaurantes e atração de consumidores para que este movimento ganhe corpo e se consolide como uma alternativa para equilíbrio no mercado de delivery.
 
-Saiba que o AppJusto também tem 5 compromissos-chave com todos, pode lê-los neste [link](https://appjusto.freshdesk.com/support/solutions/articles/67000629755-qual-%C3%A9-o-prop%C3%B3sito-e-quais-s%C3%A3o-os-compromissos-do-appjusto-),e não fica com absolutamente nada do pago pelo cliente ao entregador, nem recebe nenhum tipo de comissão de niguém, buscamos sempre conseguir a melhor negociação para vocês.
+Saiba que o AppJusto também tem 5 compromissos-chave com todos, pode lê-los neste [link](https://appjusto.freshdesk.com/support/solutions/articles/67000629755-qual-%C3%A9-o-prop%C3%B3sito-e-quais-s%C3%A3o-os-compromissos-do-appjusto-),e não fica com absolutamente nada do pago pelo cliente ao entregador, nem recebe nenhum tipo de comissão de ninguém, buscamos sempre conseguir a melhor negociação para vocês.
