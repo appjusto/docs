@@ -133,6 +133,33 @@ Em caso de fraudes em que haja contestação do pagamento por parte do cliente (
 
 Finalmente, em caso de acidente com o/a entregador/a da frota própria do estabelecimento, você também será responsabilizado pelo estorno ao cliente. Caso o/a entregador/a for parceiro do AppJusto, todos os custos de reembolso ao cliente e pagamento pela entrega e pelo produto serão suportados por nós.
 
+**3.4. Cobertura**
+
+Conforme item acima, algumas situações infelizmente comuns na entrega são de responsabilidade do restaurante. Entretanto, como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas, o AppJusto disponibiliza a opção para os restaurantes que desejarem de um plano com Cobertura como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas. 
+
+3.4.1. O que está coberto pelo plano de cobertura:
+
+Os pedidos que incorrerem em uma das situações abaixo terão cobertura e serão reembolsados:
+
+a) Cancelamento pelo cliente e/ou time AppJusto após início do preparo
+b) Cancelamento por atraso na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
+c) Cancelamento por falta de disponibilidade de entregador da rede AppJusto
+d) Defeito e/ou vício no produto (ex: embalagem violada, perda da qualidade do produto, etc) desde que ocasionado por problema na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
+e) Extravio dos produtos, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
+f) Fraude (Chargeback)
+
+3.4.2. Quanto custa o plano de cobertura:
+
+O estabelecimnento que optar pela cobertura, será descontado do valor de cada pedido o percentual de 10,92%, sendo esse percentual composto de: 5% de comissão do AppJusto; 2,42% de comissão do Iugu e 3,5% da taxa de cobertura.
+
+3.4.3. Valor máximo de cobertura:
+
+A cobertura será no valor máximo de até R$ 300,00 (trezentos reais) para cada pedido, independente do tipo de situação experimentada e levando em consideração a regra de porcentagem reembolsado abaixo indicada.
+
+3.4.4. Porcentagem que é reembolsada
+
+No caso de ocorrência de quaisquer problemas listados acima, os estabelecimentos que optarem pelo plano de cobertura serão reembolsados no percentual de 89,08% do valor do produto, limitados à cobertura máxima de R$ 300,00 acima indicada. Ex: Se o valor de venda do produto foi R$ 100,00, o restaurante será reembolsado em R$ 89,08
+
 
 # 4. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
 
