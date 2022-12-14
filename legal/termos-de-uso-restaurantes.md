@@ -141,7 +141,7 @@ Conforme item acima, algumas situações infelizmente comuns na entrega são de 
 
 Os pedidos que incorrerem em uma das situações abaixo terão cobertura e serão reembolsados:
 
-a) Cancelamento pelo cliente e/ou time AppJusto após início do preparo
+a) Cancelamento pelo time AppJusto após início do preparo
 b) Cancelamento por atraso na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
 c) Cancelamento por falta de disponibilidade de entregador da rede AppJusto
 d) Defeito e/ou vício no produto (ex: embalagem violada, perda da qualidade do produto, etc) desde que ocasionado por problema na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
