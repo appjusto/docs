@@ -131,7 +131,7 @@ Caso o pedido seja cancelado pelo cliente por não ter sido encontrado entregado
 
 Em caso de fraudes em que haja contestação do pagamento por parte do cliente (chargeback), o AppJusto tomará todas as medidas cabíveis para defender a regularidade da transação apresentando defesa à contestação. Caso a defesa apreesentada não seja acatada pela operadora de cartão de crédito, o restaurante, o entregador e o AppJusto assumirão seus próprios prejuízos. Isso quer dizer que o restaurante não receberá pelos produtos, o AppJusto não receberá a comissão devida e o entregador não receberá pela corrida e gorjeta, caso aplicável. O AppJusto, no entanto, poderá arcar com os custos caso seja constatado que os mecanismos de prevenção à fraude falharam. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis  e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
 
-Finalmente, em caso de acidente com o/a entregador/a da frota própria do estabelecimento, você também será responsabilizado pelo estorno ao cliente. Caso o/a entregador/a for parceiro do AppJusto, todos os custos de reembolso ao cliente e pagamento pela entrega e pelo produto serão suportados por nós.
+Finalmente, em caso de acidente com o/a entregador/a, seja da frota própria do estabelecimento, seja com um entregador/a parceiro do AppJusto, você também será responsabilizado por todos os custos de reembolso ao cliente, pagamento pela entrega e pelo produto.
 
 **3.4. Cobertura**
 
@@ -142,7 +142,7 @@ Conforme item acima, algumas situações infelizmente comuns na entrega são de 
 Os pedidos que incorrerem em uma das situações abaixo terão cobertura e serão reembolsados:
 
 a) Cancelamento pelo time AppJusto após início do preparo
-b) Cancelamento por atraso na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
+b) Cancelamento por atraso na entrega, por qualquer motivo, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
 c) Cancelamento por falta de disponibilidade de entregador da rede AppJusto
 d) Defeito e/ou vício no produto (ex: embalagem violada, perda da qualidade do produto, etc) desde que ocasionado por problema na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
 e) Extravio dos produtos, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
