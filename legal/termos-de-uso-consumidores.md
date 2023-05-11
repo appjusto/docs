@@ -39,11 +39,12 @@ Para você fazer poder operar na nossa plataforma é necessário que você preen
 
 Como em todo tipo de relação jurídica, a sua relação com o AppJusto, restaurantes e entregadores implica em responsabilidades para você. Essas responsabilidades servem para garantir a boa relação entre as partes envolvidas e das quais não abriremos mão. Aceitando esse termo, você assume expressamente que:
 
-1. Deve se relacionar com todos os agentes (AppJusto, entregadores, restaurantes) da forma mais ética, correta, respeitosa, segura e justa possível, assumindo a responsabilidade por todos os atos praticados por você durante o uso da plataforma.
-2. Sob pena de responder civil e criminalmente, você declara que todas as informações cadastrais enviados à Plataforma do Appjusto são autênticos, atuais e verdadeiros.
-3. Tem ciência e está de acordo que todas as mensagens trocadas entre você, entregador e AppJusto, seja no chat da plataforma, por e-mail, aplicativos de troca de mensagens ou de outras formas, não são privadas e são constantemente monitoradas como forma de evitar abusos, identificar problemas e aperfeiçoar a operação. Caso o AppJusto identifique qualquer irregularidade ou desrespeito aos presentes Termos no conteúdo da mensagem, o envio da mesma poderá bloqueado pela plataforma para que não chegue ao destinatário. Independente do bloqueio da mensagem suspeita, esta estará sujeita a nossa análise e você poderá ser punido caso o conteúdo da mesma desrespeite os presentes Termos; 
+1. Deve se relacionar com todos os agentes (AppJusto, entregadores, restaurantes/estabelecimentos) da forma mais ética, correta, respeitosa, segura e justa possível, assumindo a responsabilidade por todos os atos praticados por você durante o uso da plataforma.
+2. Sob pena de responder civil e criminalmente, você declara que todas as informações cadastrais enviadas à Plataforma do Appjusto são autênticas, atuais e verdadeiras.
+3. Tem ciência e está de acordo que todas as mensagens trocadas entre você, entregador e AppJusto, seja no chat da plataforma, por e-mail, aplicativos de troca de mensagens ou de outras formas, não são privadas e são constantemente monitoradas como forma de evitar abusos, identificar problemas e aperfeiçoar a operação. Caso o AppJusto identifique qualquer irregularidade ou desrespeito aos presentes Termos no conteúdo da mensagem, o envio da mesma poderá ser bloqueado pela plataforma para que não chegue ao destinatário. Independente do bloqueio da mensagem suspeita, esta estará sujeita a nossa análise e você poderá ser punido caso o conteúdo da mesma desrespeite os presentes Termos; 
 4. O chat da plataforma deverá ser utilizado exclusivamente para questões relacionadas à prestação de serviços; 
 5. Toda e qualquer transação financeira, inclusive gorjetas, obrigatoriamente deve ser feita dentro da plataforma, sendo proibido qualquer tipo de remuneração fora da plataforma.
+6. Ao optar pela entrega de uma mercadoria, tem ciência que somente é proibido enviar os seguintes itens: dinheiro e/ou cheque; produtos ilícitos (isto é, aqueles proibidos por lei); animais; armas de fogo e/ou munições; materiais perigosos, inflamáveis ou combustíveis; drogas e entorpecentes; explosivos; jóias e quaisquer outros materiais cujo transporte seja proibido ou precisem de licença de transporte específica. Se o entregador identificar que está transportando qualquer um desses produtos, estará obrigado a interromper a corrida, entrar em contato com o nosso suporte e, se for o caso, se dirigir a uma delegacia mais próxima para relatar o ocorrido e deixar que as autoridades façam o seu trabalho.
 
 #### 2.3.4. Compromissos
 
@@ -70,9 +71,13 @@ Assim, ao aceitar esse Termo você concorda expressamente com os itens abaixo:
 
 ### 3.1. Composição.
 
-Para utilizar a plataforma para pedir comida você não paga nada para o AppJusto e todo o valor que você paga pelos produtos é direcionado aos restaurantes que nos pagam uma comissão de 5% do valor dos produtos. Se você quiser solicitar uma encomenda, você paga para o AppJusto um valor fixo de R$ 5,00 (cinco reais) por entrega. No caso dos corridas, seja para pedir comida ou para as encomendas, todo o valor pago é direcionado aos Entregadores e o AppJusto não fica com nada.
+Todo o valor que você paga pelos produtos é direcionado aos restaurantes/estabelecimentos que nos pagam uma comissão de 5% do valor dos produtos. Se você quiser solicitar uma encomenda, você paga para o AppJusto um valor fixo de R$ 5,00 (cinco reais) por entrega. No caso das corridas, todo o valor pago é direcionado aos Entregadores e o AppJusto não fica com nada.
 
-O Appjusto gostaria de incentivá-lo a fazer o pagamento via PIX para que o valor da sua compra e corrida a serem direcionados aos restaurantes e entregadores seja o maior possível e esteja disponibilizado para eles no menor tempo possível.
+Além do valor pago pelos produtos ou pela corrida da encomenda, você pagará R$ 0,23 (vinte e três centavos) por corrida para custear o seguro coletivo que negociamos para os entregadores junto a [Iza](https://iza.com.vc/seguro-iza). Esse valor se refere ao pagamento do prêmio do seguro e será destacado na hora do pagamento para que exista total transparência do valor pago
+
+Essa foi a forma que encontramos para que pudéssemos viabilizar esse importante benefício para os entregadores, sem comprometer as nossas taxas. Para isso, negociamos um contrato coletivo de seguros  junto a [Iza](https://iza.com.vc/seguro-iza) com o objetivo de garantir o pagamento de indenização aos entregadores, por sinistros que possam sofrer em consequência dos riscos inerentes à atividade deles. 
+
+O Appjusto gostaria de incentivá-lo a fazer o pagamento via PIX para que o valor da sua compra e corrida a serem direcionados aos restaurantes/estabelecimentos e entregadores seja o maior possível e esteja disponibilizado para eles no menor tempo possível
 
 ### 3.2. Estornos e cancelamentos
 
