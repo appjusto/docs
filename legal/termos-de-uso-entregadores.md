@@ -222,7 +222,7 @@ III - O Seguro **não** oferecerá cobertura para:
       
       g) Casos omissos, serão solucionados entre as Partes;
       
-      h) Caso seja constatada fraude ou má-fé do Segurado na utilização do Seguro e/ou na abertura e processo de sinistro, a IZA terá a prerrogativa de aprovar ou rejeitar a renovação do Seguro do referido Segurado, mantendo sempre o AppJusto informado sobre tais decisões.
+      h) Caso seja constatada fraude ou má-fé do Segurado na utilização do Seguro e/ou na abertura e processo de sinistro, a IZA terá a prerrogativa de aprovar ou rejeitar a renovação do Seguro do referido Segurado, mantendo sempre o AppJusto informado sobre tais decisões;
       
 IV - A idade máxima para os entregadores serem segurados é de 70 (setenta) anos e para isso **para que você possa ser elegível ao seguro, precisa atualizar as suas informações cadastrais com o envio dos documentos que comprovam sua idade**.
 
