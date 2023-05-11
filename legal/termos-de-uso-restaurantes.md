@@ -81,6 +81,10 @@ j) O chat da plataforma deverá ser utilizado exclusivamente para questões rela
 
 k) Toda e qualquer transação financeira pela prestação do seus serviços obrigatoriamente deve ser feita dentro da plataforma, sendo proibido a solicitação de qualquer tipo de remuneração, ao cliente fora da plataforma.
 
+l) É proibida a venda de cigarros, cigarrilhas, charutos, cachimbos ou qualquer outro produto fumígeno, derivado ou não do tabaco;
+
+m) É proibida a venda de bebidas alcoólicas para menores de 18 anos
+
 **2.3.5. Suspensão e banimento**
 
 É possível que você seja suspenso ou banido da plataforma. A suspensão ou banimento da plataforma poderá ocorrer nas seguintes hipóteses e sempre depois de uma criteriosa análise pelo AppJusto (no futuro essa decisão também será submetida a um conselho composto por appjusto, entregadores, restaurantes e parceiros):
@@ -147,6 +151,8 @@ c) Cancelamento por falta de disponibilidade de entregador da rede AppJusto
 d) Defeito e/ou vício no produto (ex: embalagem violada, perda da qualidade do produto, etc) desde que ocasionado por problema na entrega, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
 e) Extravio dos produtos, salvo para pedidos com entrega assumida pelo estabelecimento os quais não terão cobertura
 f) Fraude (Chargeback)
+
+Em caso de suspeita de fraudes, o AppJusto reserva-se no direito de bloquear a liberação do pagamento para o restaurante/estabelecimento, mediante notificação ao responsável pelo restaurante/estabelecimento.
 
 3.4.2. Quanto custa o plano de cobertura:
 
