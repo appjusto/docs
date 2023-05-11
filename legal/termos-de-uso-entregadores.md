@@ -37,14 +37,23 @@ Podemos também a qualquer tempo solicitar novas informações ou documentos ou 
 Como em todo tipo de relação jurídica, a sua prestação de serviços implica em responsabilidades para você. Essas responsabilidades servem para garantir a boa prestação do serviço e das quais não abriremos mão. Aceitando esse termo, você assume expressamente que:
 
 a) Deve prestar o serviço da forma mais ética, correta, respeitosa, segura e justa possível, assumindo a responsabilidade por todos os atos praticados por você durante a prestação de serviços, inclusive qualquer ato praticado com seu usuário no aplicativo. Lembre-se que eles são individuais e intransferíveis.
+
 b) Tem ciência de todos os riscos envolvidos na prestação de serviços, inclusive aqueles relacionados à segurança no trânsito, incluso infrações de trânsito, exonerando a AppJusto e o restaurante de qualquer responsabilidade.
-c) Tem ciência que somente é permitido o transporte de produtos lícitos, isto é, aqueles que não sejam proibidos ou regulados por alguma lei ou instrumento semelhante que impeça o transporte por você (entorpecentes, explosivos, armas de fogo, dentre outros). Se você identificar que está transportando qualquer produto ilícito ou perigoso, está obrigado a interromper a corrida, entrar em contato com o nosso suporte e, se for o caso e a depender do seu bom julgamento, se dirigir a uma delegacia mais próxima para relatar o ocorrido e deixar que as autoridades façam o seu trabalho.
+
+c) Tem ciência que é proibido transportar os seguintes itens: dinheiro e/ou cheque; produtos ilícitos (isto é, aqueles proibidos por lei); animais; armas de fogo e/ou munições; materiais perigosos, inflamáveis ou combustíveis; drogas e entorpecentes; explosivos; jóias e quaisquer outros materiais cujo transporte seja proibido ou precisem de licença de transporte específica. Se você identificar que está transportando qualquer um desses produtos, estará obrigado a interromper a corrida, entrar em contato com o nosso suporte e, se for o caso e a depender do seu bom julgamento, se dirigir a uma delegacia mais próxima para relatar o ocorrido e deixar que as autoridades façam o seu trabalho.
+
 d) É de sua responsabilidade dispor de todos os meios para realizar a entrega (habilitação, veículo, manutenção, equipamento de segurança, bag, smartphone, plano de dados, GPS, linha telefônica, combustível, etc.) e se responsabilizar por qualquer despesa que seja necessária para dispor desses meios.
+
 e) Sob pena de responder civil e criminalmente, você declara que todos os documentos e informações cadastrais enviados à Plataforma do AppJusto são autênticos, atuais e verdadeiros.
+
 f) O transporte utilizado é de sua propriedade ou, em não o sendo, declara ser de propriedade de outra pessoa que o cedeu por livre e espontânea vontade para que você pudesse desempenhar o seu trabalho, sendo você o único responsável por quaisquer irregularidades e penalidades relacionadas ao uso desse transporte;
+
 g) Ao aceitar uma corrida você deverá dirigir-se diretamente aos endereços indicados na plataforma observando o tempo de percurso indicado. 
+
 h) Manter contato com a nossa equipe de suporte em caso de qualquer problema no decorrer de uma corrida que impeça você executá-la ou de dirigir-se diretamente aos endereços indicados na plataforma.
+
 i) tem ciência e está de acordo que todas as mensagens trocadas entre você, cliente e AppJusto, seja no chat da plataforma, por e-mail, aplicativos de troca de mensagens ou de outras formas, não são privadas e são constantemente monitoradas como forma de evitar abusos, identificar problemas e aperfeiçoar a operação.Caso o AppJusto identifique qualquer irregularidade ou desrespeito aos presentes Termos no conteúdo da mensagem, o envio da mesma poderá bloqueado pela plataforma para que não chegue ao destinatário. Independente do bloqueio da mensagem suspeita, esta estará sujeita a nossa análise e você poderá ser punido caso o conteúdo da mesma desrespeite os presentes Termos; 
+
 j) que o chat da plataforma deverá ser utilizado exclusivamente para questões relacionadas à prestação de serviços; k) que toda e qualquer transação financeira pela prestação do seus serviços, inclusive gorjetas, obrigatoriamente deve ser feita dentro da plataforma, sendo proibido que você solicite qualquer tipo de remuneração, inclusive gorjetas, ao cliente fora da plataforma.
 
 #### 2.3.3. Suspensão, exclusão e banimento.
@@ -177,8 +186,49 @@ Tanto para entregadores quanto para restaurantes, no momento que solicitar a tra
 
 Em caso de fraudes em que haja contestação do pagamento por parte do cliente (chargeback), o AppJusto tomará todas as medidas cabíveis para defender a regularidade da transação apresentando defesa à contestação. Caso a defesa apresentada não seja acatada pela operadora de cartão de crédito, o entregador, o restaurante e o AppJusto assumirão seus próprios prejuízos. Isso quer dizer que o restaurante não receberá pelos produtos, o AppJusto não receberá a comissão devida e você não receberá pela corrida e gorjeta, caso aplicável. O AppJusto, no entanto, poderá arcar com os custos caso seja constatado que os mecanismos de prevenção à fraude falharam. Esclarecemos ainda que temos continuamente dedicado processos, tecnologia e serviços para melhoria da aprovação dos cadastros, identificação de perfis e pedidos potencialmente fraudulentos com o objetivo de evitar ao máximo qualquer tipo de irregularidade, além de realizar o bloqueio imediato de usuários que tenham caso comprovado de fraude.
 
-## 6. CONSIDERAÇÕES FINAIS
+## 6. SEGURO COLETIVO
 
-### 6.1. Lei e Foro.
+6.1. Buscando sempre uma melhoria contínua e relações mais justas com nossa comunidade, o AppJusto fez a contratação de um seguro coletivo com a [IZA](https://iza.com.vc/seguro-iza) para os entregadores sem nenhum custo adicional para você e com o objetivo de garantir o pagamento de indenização, por prejuízos que possam sofrer em consequência dos riscos inerentes à sua atividade.
+
+6.2 O limite máximo de indenização é o valor informado na tabela abaixo. Cada cobertura, entretanto, possui limite individualizado e regras específicas. Os valores de cobertura se referem a um limite indenizatório, de modo que a indenização em caso de sinistro levará em consideração o valor concreto do prejuízo, que não poderá ultrapassar o limite individual de cobertura nem o valor máximo de indenização securitária, caso somados.
+
+- **Valor Máximo de indenização securitária:** R$ 20.000,00
+- **Coberturas de Despesas Médicos Hospitalares e Odontológicas:** Até R$ 5.000,00. Dispensa de carência disposta nas [condições gerais](https://iza.com.vc/condicoes-gerais).
+- **Diária por incapacidade Temporária:** Dispensa de franquia e carência, dispostas nas Condições Gerais. Limite de 20 dias de afastamento, com no máximo R$60,00 de indenização por dia.
+- **Morte Acidental**: Até R$ 20.000,00
+- **Cobertura de Invalidez Permanente Total ou Parcial**: Até R$ 20.000,00
+- **Auxílio de Funeral**: R$ 5.000
+
+6.3. Os detalhes sobre as condições gerais do seguro estão aqui, os quais poderão ser acessados a qualquer momento por meio do website e do aplicativo da IZA disponível na [Google Play](https://play.google.com/store/apps/details?id=vc.com.iza.izaapp&hl=pt_BR&gl=US) e [Apple Store](https://apps.apple.com/br/app/iza/id1526181722).
+
+6.4. Também é importante que você entenda:
+
+I - Você deve utilizar o aplicativo da IZA para: (a) abertura de sinistros; (b) recebimento de indenização; e (c) esclarecimento de dúvidas
+II - O AppJusto é apenas representante do grupo de segurados, devendo o segurado que tiver dúvidas entrar em contato direto com a IZA por meio dos seus canais de contato: (11) 4673-2002 (central de atendimento telefônico), (11) 4673-2004 (whatsapp) ou chat online acessível via site www.iza.com.vc ou aplicativo IZA Seguros disponível na [Google Play](https://play.google.com/store/apps/details?id=vc.com.iza.izaapp&hl=pt_BR&gl=US) e [Apple Store](https://apps.apple.com/br/app/iza/id1526181722).
+
+III - O Seguro **não** oferecerá cobertura para:
+
+      a) Sinistros que aconteçam na condução de veículo automotor e o segurado não esteja devidamente habilitado para tal condução;
+      
+      b) Segurados com dados cadastrais não recebidos pelo AppJusto, seja por falha no envio ou por falha no cadastro, como segurados com CPF errado ou incompleto, por exemplo;
+      
+      c) Quando aplicável, para proteção contratada por empresas de delivery e/ou logística, caso os segurados estejam realizando entregas em locais inapropriados, como porta-malas de veículos ou realizando entregas na garupa;
+      
+      d) Danos materiais ou afastamentos do trabalho em decorrência de danos a instrumentos de trabalho, como motocicletas;
+      
+      e) Terceiros que estejam trafegando como passageiro em desrespeito à legislação de trânsito vigente;
+      
+      f) sinistros abertos em data anterior ao efetivo início da cobertura do seguro;
+      
+      g) Casos omissos, serão solucionados entre as Partes;
+      
+      h) Caso seja constatada fraude ou má-fé do Segurado na utilização do Seguro e/ou na abertura e processo de sinistro, a IZA terá a prerrogativa de aprovar ou rejeitar a renovação do Seguro do referido Segurado, mantendo sempre o AppJusto informado sobre tais decisões.
+      
+IV - A idade máxima para os entregadores serem segurados é de 70 (setenta) anos e para isso **para que você possa ser elegível ao seguro, precisa atualizar as suas informações cadastrais com o envio dos documentos que comprovam sua idade**.
+
+
+## 7. CONSIDERAÇÕES FINAIS
+
+### 7.1. Lei e Foro.
 
 Esses termos devem ser interpretados de acordo com a legislação brasileira e em caso de alguma controvérsia ou conflito que surgir e que a AppJusto e você não consigam resolver, deverá ser solucionado pela justiça do estado de São Paulo.
