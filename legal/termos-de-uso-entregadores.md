@@ -8,11 +8,13 @@ Somos uma plataforma de delivery de código fonte livre que busca relações mai
 
 O impacto social é nosso objetivo principal. Embora o AppJusto seja uma empresa no formato de sociedade limitada (nossa razão social é JUSTO TECNOLOGIA E INOVAÇÃO SOCIAL LTDA e o nosso CNPJ é 38.447.139/0001-50), entendemos como sendo nosso papel favorecer o melhor funcionamento do delivery e a distribuição justa dos ganhos entre todos os participantes. Mais do que um aplicativo, nos consideramos um movimento que articula uma rede formada por entregadores, clientes, restaurantes e demais parceiros para, através de tecnologia, somar esforços e cumprir os compromissos que firmamos com nossos integrantes.
 
+Temos no nosso DNA os princípios do cooperativismo e associativismo, e continuaremos incentivando usuários a se unirem enquanto categoria através das nossas comunicações de comunidade.
+
 ## 2. A NOSSA RELAÇÃO
 
 ### 2.1. Sobre esses termos.
 
-Esses termos regulam a relação entre o AppJusto e você entregador. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Nos comprometemos a tornar públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando na plataforma.
+Esses termos regulam a relação entre o AppJusto e você entregador. Eles são vinculantes e devem ser respeitados. Sua adesão aos presentes termos é indispensável e obrigatória para que você possa operar na plataforma. Esses termos podem mudar com o tempo a depender da maturidade da plataforma e do que entendemos ser justo para todos que participam do ecossistema de delivery do Brasil. Antes das alterações, comunicaremos você por e-mail do teor das modificações com dois dias de antecedência. A única exceção serão para ajustes e correções ortográficas no texto já publicado ou alguma alteração emergencial que impacte diretamente na usabilidade da plataforma, mas sem trazer nenhum prejuízo para qualquer integrante do ecossistema AppjJusto. Nos comprometemos a tornar públicas as modificações a esses termos e você reconhece que deve aceitar as modificações para que possa continuar operando na plataforma.
 
 ### 2.2. Prestação dos serviços
 
@@ -72,10 +74,37 @@ f) Divulgação por qualquer meios de informações falsas  sobre a plataforma, 
 
 Em caso de extravio, perda, furto ou roubo dos produtos que estejam sob sua responsabilidade, para que possamos fazer a análise criteriosa do caso, precisaremos que você entre em contato com o nosso suporte e nos envie um relato detalhado do caso bem como o Boletim de Ocorrência.
 
-A aplicação da exclusão de conta da plataforma será precedida de comunicação prévia, com antecedência mínima de 3 (três) dias úteis, e será acompanhada das razões que a motivaram o AppJusto a tomar essa decisão. Nossas razões serão sempre fundamentadas e iremos preservar a sua segurança e privacidade.
+Antes da aplicação de qualquer suspensão, exclusão ou banimento, iremos notificar você previamente com antecedência de 03 dias úteis, salvo nos casos de ameaça à segurança e integridade da plataforma, restaurantes e clientes por suspeita de infração à lei. Nossa comunicação erá acompanhada das razões que motivaram o AppJusto a tomar essa decisão e nossas razões serão sempre fundamentadas e iremos preservar a sua segurança e privacidade.
 
-O prazo de 3 (três) dias úteis acima, não será aplicado e a exclusão poderá ser feita de imediato em caso de uma ameaça à segurança e à integridade da nossa plataforma, dos fornecedores e dos consumidores, em razão de suspeita de prática de infração penal prevista na legislação vigente.
+Em todos os casos iremos apresentar todas as razões que nos levaram a tomar essa decisão.
 
+Nesse prazo de 03 dias úteis, você terá acesso à platafaorma para se defender apresentando todas as provas que entender necessárias.
+
+Após análise da sua manifestação ou na ausência dela, iremos decidir pela aplicação ou não da sanção de suspensão, exclusão ou banimento e essa decisão será definitiva.
+
+#### 2.3.4. Política Contra Discriminação
+
+O AppJusto mantém o compromisso perante a sociedade de que não discriminará ou tolerará a discriminação contra pessoas com base em raça, etnia, origem social ou minoritária, casta, religião ou crença, política ou qualquer outra opinião, idioma, gênero, identidade de gênero, sexo, orientação sexual, deficiência, idade ou qualquer outra característica protegida por lei. Isso inclui, mas não se limita a:
+
+a) Discriminação racial, étnica ou de origem nacional; 
+
+b) Discriminação de gênero, incluindo ações discriminatórias contra mulheres, homens, transgêneros ou pessoas não conformes com o gênero; 
+
+c) Discriminação religiosa ou por crenças; 
+
+d) Discriminação por orientação sexual, identidade de gênero ou expressão de gênero; 
+
+e) Discriminação por idade, incluindo discriminação etária ou por idade percebida; 
+
+f) Discriminação por deficiência ou condição médica; 
+
+g) Discriminação por estado civil, situação familiar ou responsabilidades parentais; 
+
+h) Qualquer outra forma de discriminação que viole as leis aplicáveis ou os princípios desta política.
+
+Disponibilizamos como canal de denúncia o denuncia@appjusto.com.br e nos comprometemos a investigar prontamente todas as denúncias de discriminação de acordo com procedimentos justos e imparciais. As denúncias podem ser feitas de forma confidencial e sem medo de retaliação. A confidencialidade será mantida na medida do possível, desde que seja consistente com a necessidade de realizar uma investigação completa e justa. As medidas disciplinares adequadas serão aplicadas a qualquer pessoa considerada culpada de discriminação e essa pessoa será banida da nossa plataforma.
+
+Além do canal de denúncia por e-mail, também disponibilizamos um formulário de denúncia que estará disponível no aplicativo e no nosso site, além do telefone 11 978210274.
 
 ## 3. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
 
