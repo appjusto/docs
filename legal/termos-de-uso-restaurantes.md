@@ -155,7 +155,7 @@ Caso não queira esperar a compensação dos valores pagos com cartão de crédi
 
 É importante destacar que essas operações financeiras são feitas por uma empresa que possui taxas e essas taxas não são destinadas ao AppJusto).
 
-**3.3. Estornos e cancelamentos**
+**3.4. Estornos e cancelamentos**
 
 Caso um pedido venha a ser aceito e depois cancelado por você, independente do motivo, mesmo assim será cobrada de você a taxa de R$ 0,09 (nove centavos de real) pela operadora financeira encarregada dos pagamentos.
 
@@ -171,11 +171,11 @@ Em caso de fraudes em que haja contestação do pagamento por parte do cliente (
 
 Finalmente, em caso de acidente com o/a entregador/a, seja da frota própria do estabelecimento, seja com um entregador/a parceiro do AppJusto, você também será responsabilizado por todos os custos de reembolso ao cliente, pagamento pela entrega e pelo produto.
 
-**3.4. Cobertura**
+**3.5. Cobertura**
 
 Conforme item acima, algumas situações infelizmente comuns na entrega são de responsabilidade do restaurante. Entretanto, como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas, o AppJusto disponibiliza a opção para os restaurantes que desejarem de um plano com Cobertura como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas. 
 
-3.4.1. O que está coberto pelo plano de cobertura:
+3.5.1. O que está coberto pelo plano de cobertura:
 
 Os pedidos que incorrerem em uma das situações abaixo terão cobertura e serão reembolsados:
 
@@ -188,15 +188,15 @@ f) Fraude (Chargeback)
 
 Em caso de suspeita de fraudes, o AppJusto reserva-se no direito de bloquear a liberação do pagamento para o restaurante/estabelecimento, mediante notificação ao responsável pelo restaurante/estabelecimento.
 
-3.4.2. Quanto custa o plano de cobertura:
+3.5.2. Quanto custa o plano de cobertura:
 
 O estabelecimnento que optar pela cobertura, será descontado do valor de cada pedido o percentual de 10,92%, sendo esse percentual composto de: 5% de comissão do AppJusto; 2,42% de comissão do Iugu e 3,5% da taxa de cobertura.
 
-3.4.3. Valor máximo de cobertura:
+3.5.3. Valor máximo de cobertura:
 
 A cobertura será no valor máximo de até R$ 300,00 (trezentos reais) para cada pedido, independente do tipo de situação experimentada e levando em consideração a regra de porcentagem reembolsado abaixo indicada.
 
-3.4.4. Porcentagem que é reembolsada
+3.5.4. Porcentagem que é reembolsada
 
 No caso de ocorrência de quaisquer problemas listados acima, os estabelecimentos que optarem pelo plano de cobertura serão reembolsados no percentual de 89,08% do valor do produto, limitados à cobertura máxima de R$ 300,00 acima indicada. Ex: Se o valor de venda do produto foi R$ 100,00, o restaurante será reembolsado em R$ 89,08
 
