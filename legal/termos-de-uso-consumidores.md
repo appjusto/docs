@@ -60,6 +60,9 @@ Assim, ao aceitar esse Termo você concorda expressamente com os itens abaixo:
 2. Auxiliar o AppJusto na melhoria da plataforma, seja nos informando sempre que identifique algum defeito que provoque o mau funcionamento da plataforma, seja com o envio de sugestões de melhoria.
 3. Ter o compromisso de solicitar ao restaurante o suporte em primeira instância em relação aos pedidos feitos (ex: divergência e/ou qualidade entre o pedido e o produto entregue)
 4. Entender a importância de ajudar na divulgação do AppJusto para outros restaurantes e atração de consumidores para que este movimento ganhe corpo e se consolide como uma alternativa para equilíbrio no mercado de delivery.
+5. É proibido comprar cigarros, cigarrilhas, charutos, cachimbos ou qualquer outro produto fumígeno, derivado ou não do tabaco, pois esses produtos são proibidos para menores de 18 anos;
+6. É proibido comprar bebidas alcoólicas caso você seja maior de 16 anos e menor de 18 anos, pois esses produtos são proibidos para menores de 18 anos;
+7. O(a) entregador(a) levará o seu pedido até o primeiro ponto de contato, seja no portão da sua casa ou na portaria do seu condomínio. O(a) entregador(a) não é obrigado(a), por exemplo, a subir no seu apartamento para realizar a entrega. Isso somente será possível a depender do consentimento expresso do(a) entregador(a) no ato da entrega (preferivelmente via chat) e das regras do condomínio, caso aplicáveis;
 
 #### 2.3.5. Suspensão e banimento.
 
