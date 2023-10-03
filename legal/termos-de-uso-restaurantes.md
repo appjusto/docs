@@ -141,7 +141,15 @@ Já o frete pago pelo cliente será creditado integralmente para o estabelecimen
 
 Quando os valores estiverem compensados você verá em &quot;Disponível para saque&quot; o valor que você já poderá retirar para sua conta corrente.
 
-**3.2. Adiantamento**
+**3.2. Pagamento com VR (Vale Refeição), VA (Vale Alimentação) e VR Benefícios**.
+
+Nossa plataforma aceita como forma de pagamento o VR (Vale Refeição), VA (Vale Alimentação) e VR Benefícios da empresa VR Benefícios que atua como correspondente bancário do Banco VR S/A. Caso o cliente opte por essa forma de pagamento, todos os aspectos do pagamento (taxas, prazos, disputas, adiantamentos etc.) serão aqueles contratados diretamente entre o Restaurante e a empresa VR Benefícios.
+
+Nesse caso, entretanto, o valor da comissão devida ao AppJusto (5% do valor do pedido), o valor devido pela entrega e todas as taxas financeiras incidentes sobre o pedido e a entrega realizada são de responsabilidade do restaurante. O AppJusto irá debitar o valor da comissão devida ao AppJusto (5% do valor do pedido) e o valor devido pela entrega do crédito que Restaurante possui no Iugu. 
+
+Caso o restaurante não possua saldo no Iugu, o AppJusto se reserva no direito de cobrar os valores acima diretamente do restaurante.
+
+**3.3. Adiantamento**
 
 Caso não queira esperar a compensação dos valores pagos com cartão de crédito pelos seus clientes é possível fazer um adiantamento dos valores ainda não compensados mediante um pagamento de uma taxa de 2,75% ao mês e esse percentual é reduzido de forma proporcional aos dias antecipados).
 
