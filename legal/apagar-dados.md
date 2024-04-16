@@ -1,4 +1,4 @@
-# Política de remoção de dados
+# Política de remoção de dados dos apps AppJusto e AppJusto Entregador
 
 Para apagar seus dados pelo aplicativo, siga os passos:
 
