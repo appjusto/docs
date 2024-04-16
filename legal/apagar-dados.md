@@ -7,6 +7,8 @@ Para apagar seus dados pelo aplicativo, siga os passos:
 3. Clique em "Exlcuir conta"
 4. Confirme clicando em "Excluir conta"
 
+Seus dados serão removidos em até 30 dias após a sua solicitação.
+
 Caso você prefira solicitar a remoção da sua conta por e-mail, mande sua solicitação para [contato@appjusto.com.br](mailto:contato@appjusto.com.br).
 
 Para outras informações sobre como seus dados são tratados, acesse [os termos de tratamento de dados](https://github.com/appjusto/docs/blob/main/legal/termo-tratamento-de-dados.md).
