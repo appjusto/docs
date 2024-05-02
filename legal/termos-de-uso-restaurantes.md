@@ -125,7 +125,7 @@ Além do canal de denúncia por e-mail, também disponibilizamos um formulário 
 
 Caso sua conta fique inativa por mais 90 dias (isto é, sem realizar pelo menos uma entrega concluída com sucesso), ela será cancelada automaticamente independente de aviso prévio por parte do AppJusto e você abre mão de quaisquer valores que por ventura estejam vinculados à sua conta no Iugu, dando quitação ampla, geral e irrestrita para o AppJusto para nada mais pedir. 
 
-Caso sua conta já esteja inativa (isto é, sem realizar pelo menos uma entrega concluída com sucesso) por mais de 90 dias a contar da data de 02 de maio de 2024, você terá o prazo de 30 (trinta) dias corridos para ativar a sua conta, concluíndo pelo menos uma entrega com sucesso. Após os 30 (trinta) dias corridos de inatividade, a conta será cancelada automaticamente e você abre mão de quaisquer valores que estejam vinculados à ela no Iugu, dando quitação ampla, geral e irrestrita para o AppJusto para nada mais pedir.
+Caso sua conta já esteja inativa (isto é, sem realizar pelo menos uma entrega concluída com sucesso) por mais de 90 dias a contar da data de 02 de maio de 2024, você terá o prazo de 30 (trinta) dias corridos para ativar a sua conta, concluindo pelo menos uma entrega com sucesso. Após os 30 (trinta) dias corridos de inatividade, a conta será cancelada automaticamente e você abre mão de quaisquer valores que estejam vinculados à ela no Iugu, dando quitação ampla, geral e irrestrita para o AppJusto para nada mais pedir.
 
 # 3. PREÇO
 
