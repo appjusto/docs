@@ -1,4 +1,9 @@
 # Política de Privacidade
+
+## Escopo
+
+Esta política de privicidade abrange os aplicativos móveis AppJusto, AppJusto Entregador, AppJusto Restaurante bem como todos os sites e aplicativos web acessados pelo domínio appjusto.com.br.
+
 ## Definições iniciais
 
 Olá! Este documento atende às exigências da Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de informar como protegemos os seus dados. Nós respeitamos a sua privacidade e por isso, queremos esclarecer alguns pontos importantes.
