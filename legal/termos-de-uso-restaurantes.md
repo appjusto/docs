@@ -131,7 +131,7 @@ Caso sua conta já esteja inativa (isto é, sem realizar pelo menos uma entrega 
 
 **3.1. Composição**
 
-Para utilizar a plataforma a contraprestação paga por você para o Appjusto é de 5% (cinco por cento) do valor do pedido realizado pelo cliente.
+Para utilizar a plataforma a contraprestação paga por você para o Appjusto é de 8,5% (oito vírgula cinco por cento) do valor do pedido realizado pelo cliente.
 
 Como o processamento do pagamento e custódia é feito por uma operadora financeira (&quot;gateway de pagamento&quot;), existe somente a dedução das taxas dessa operadora para processar o seu pagamento conforme o tipo de pagamento escolhido pelo cliente.
 
@@ -196,7 +196,11 @@ Em caso de suspeita de fraudes, o AppJusto reserva-se no direito de bloquear a l
 
 3.5.2. Quanto custa o plano de cobertura:
 
-Será descontado do valor de cada pedido o percentual de 10,92%, sendo esse percentual composto de: 5% de comissão do AppJusto; 2,42% de comissão do Iugu e 3,5% da taxa de cobertura.
+Será descontado do valor de cada pedido: 
+- 8,5% de comissão do AppJusto; 
+- 2,42% da comissão do Iugu em caso de crédito;
+- 0,99% + R$ 0,09 da comissão do Iugu em caso PIX;
+- 0% em caso de pagamento em V.R.
 
 3.5.3. Valor máximo de cobertura:
 
