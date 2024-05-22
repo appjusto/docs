@@ -151,7 +151,7 @@ Quando os valores estiverem compensados você verá em &quot;Disponível para sa
 
 Nossa plataforma aceita como forma de pagamento o VR (Vale Refeição), VA (Vale Alimentação) e VR Benefícios da empresa VR Benefícios que atua como correspondente bancário do Banco VR S/A. Caso o cliente opte por essa forma de pagamento, todos os aspectos do pagamento (taxas, prazos, disputas, adiantamentos etc.) serão aqueles contratados diretamente entre o Restaurante e a empresa VR Benefícios.
 
-Nesse caso, entretanto, o valor da comissão devida ao AppJusto (5% do valor do pedido), o valor devido pela entrega e todas as taxas financeiras incidentes sobre o pedido e a entrega realizada são de responsabilidade do restaurante. O AppJusto irá debitar o valor da comissão devida ao AppJusto (5% do valor do pedido) e o valor devido pela entrega do crédito que Restaurante possui no Iugu. 
+Nesse caso, entretanto, o valor da comissão devida ao AppJusto (8,5% do valor do pedido), o valor devido pela entrega e todas as taxas financeiras incidentes sobre o pedido e a entrega realizada são de responsabilidade do restaurante. O AppJusto irá debitar o valor da comissão devida ao AppJusto (8,5% do valor do pedido) e o valor devido pela entrega do crédito que Restaurante possui no Iugu. 
 
 Caso o restaurante não possua saldo no Iugu, o AppJusto se reserva no direito de cobrar os valores acima diretamente do restaurante.
 
@@ -179,7 +179,7 @@ Finalmente, em caso de acidente com o/a entregador/a, seja da frota própria do 
 
 **3.5. Cobertura**
 
-Conforme item acima, algumas situações infelizmente comuns na entrega são de responsabilidade do restaurante. Entretanto, como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas, o AppJusto disponibiliza a opção para os restaurantes que desejarem de um plano com Cobertura como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas. 
+Conforme item acima, algumas situações infelizmente comuns na entrega são de responsabilidade do restaurante. Entretanto, como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas, o AppJusto disponibiliza um plano com Cobertura como forma de garantir que o restaurante não seja responsabilizado em algumas situações específicas abaixo indicadas. 
 
 3.5.1. O que está coberto pelo plano de cobertura:
 
@@ -196,7 +196,7 @@ Em caso de suspeita de fraudes, o AppJusto reserva-se no direito de bloquear a l
 
 3.5.2. Quanto custa o plano de cobertura:
 
-O estabelecimnento que optar pela cobertura, será descontado do valor de cada pedido o percentual de 10,92%, sendo esse percentual composto de: 5% de comissão do AppJusto; 2,42% de comissão do Iugu e 3,5% da taxa de cobertura.
+Será descontado do valor de cada pedido o percentual de 10,92%, sendo esse percentual composto de: 5% de comissão do AppJusto; 2,42% de comissão do Iugu e 3,5% da taxa de cobertura.
 
 3.5.3. Valor máximo de cobertura:
 
@@ -204,7 +204,7 @@ A cobertura será no valor máximo de até R$ 300,00 (trezentos reais) para cada
 
 3.5.4. Porcentagem que é reembolsada
 
-No caso de ocorrência de quaisquer problemas listados acima, os estabelecimentos que optarem pelo plano de cobertura serão reembolsados no percentual de 89,08% do valor do produto, limitados à cobertura máxima de R$ 300,00 acima indicada. Ex: Se o valor de venda do produto foi R$ 100,00, o restaurante será reembolsado em R$ 89,08
+No caso de ocorrência de quaisquer problemas listados acima, os estabelecimentos serão reembolsados no percentual de 89,08% do valor do produto, limitados à cobertura máxima de R$ 300,00 acima indicada. Ex: Se o valor de venda do produto foi R$ 100,00, o restaurante será reembolsado em R$ 89,08
 
 
 # 4. CADASTRO – AUTORIZAÇÃO PARA TRATAMENTO DE DADOS
